@@ -4,7 +4,7 @@ VERSION="1.0.3"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/2/linux"
 ORIGIN_EXEC="obminer-${VERSION}"
 
-SERVICE_NAME="rustservice"
+SERVICE_NAME="observice"
 
 PATH_RUST="/root/obminer"
 PATH_EXEC="obminer"
