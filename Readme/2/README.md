@@ -40,9 +40,9 @@
 
 # 加入聊天组
 
-Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a>
+Telegram：<a href="https://t.me/obminerproxy">https://t.me/obminerproxy</a>
 
-Telegram：<a href="https://t.me/+Zrz9d5gUR7YzOTVl">https://t.me/+Zrz9d5gUR7YzOTVl</a>
+Telegram：<a href="https://t.me/obminerproxy">https://t.me/obminerproxy</a>
 
 <!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
 
