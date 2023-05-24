@@ -108,7 +108,7 @@ OBMiner受香港法律监管。请注意，不同国家/地区的法律要求可
    > 请直接从此项目的Windows目录下载指定的版本：
    >
    > ```sh
-   > https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
+   > https://github.com/EvilGenius-dot/shortcut/tree/main/Readme/2/windows
    > ```
    >
 
