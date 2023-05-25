@@ -94,7 +94,7 @@ VIPORMiner受香港法律监管。请注意，不同国家/地区的法律要求
    > 运行以下shell指令以运行工具包
    >
    > ```sh
-   >  bash <(curl -s -L https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/2/install.sh)
+   >  bash <(curl -s -L https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/4/install.sh)
    > ```
    >
    > 成功运行后，您将看到以下菜单。
@@ -108,7 +108,7 @@ VIPORMiner受香港法律监管。请注意，不同国家/地区的法律要求
    > 请直接从此项目的Windows目录下载指定的版本：
    >
    > ```sh
-   > https://github.com/EvilGenius-dot/shortcut/tree/main/Readme/2/windows
+   > https://github.com/EvilGenius-dot/shortcut/tree/main/Readme/4/windows
    > ```
    >
 
