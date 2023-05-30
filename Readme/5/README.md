@@ -108,7 +108,7 @@ Telegram：<a href="https://t.me/duankou01">https://t.me/duankou01</a>
    > 请直接从此项目的Windows目录下载指定的版本：
    >
    > ```sh
-   > https://github.com/EvilGenius-dot/shortcut/tree/main/Readme/4/windows
+   > https://github.com/EvilGenius-dot/shortcut/tree/main/Readme/5/windows
    > ```
    >
 
