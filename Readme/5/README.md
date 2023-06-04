@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 大风车Miner
+# TestMiner
 
 <h2>一款矿池级别的运维工具👍 </h2>
 
@@ -26,7 +26,7 @@
 
 基于Rust的开发，高效的语言带来无与伦比的性能。
 
-高性能，下一代运维体验，是由硅谷顶尖的研发团队和RUST专家带来的专业矿场运维系统-大风车Miner
+高性能，下一代运维体验，是由硅谷顶尖的研发团队和RUST专家带来的专业矿场运维系统-TestMiner
 
 （部分预览）
 
@@ -69,7 +69,7 @@ Telegram：<a href="https://t.me/duankou01">https://t.me/duankou01</a>
 
 # 服务协议
 
-大风车Miner受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。您应该理解并遵守当地的法律法规。如果您使用此产品，默认代表将接受上述许可证。如果本产品引起的法律问题与本产品无关。
+TestMiner受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。您应该理解并遵守当地的法律法规。如果您使用此产品，默认代表将接受上述许可证。如果本产品引起的法律问题与本产品无关。
 
 
 
@@ -94,7 +94,7 @@ Telegram：<a href="https://t.me/duankou01">https://t.me/duankou01</a>
    > 运行以下shell指令以运行工具包
    >
    > ```sh
-   >  bash <(curl -s -L https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/5/install.sh)
+   >  bash <(curl -s -L https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/7/install.sh)
    > ```
    >
    > 成功运行后，您将看到以下菜单。
@@ -108,7 +108,7 @@ Telegram：<a href="https://t.me/duankou01">https://t.me/duankou01</a>
    > 请直接从此项目的Windows目录下载指定的版本：
    >
    > ```sh
-   > https://github.com/EvilGenius-dot/shortcut/tree/main/Readme/5/windows
+   > https://github.com/EvilGenius-dot/shortcut/tree/main/Readme/7/windows
    > ```
    >
 
