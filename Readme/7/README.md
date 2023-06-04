@@ -94,7 +94,7 @@ Telegram：<a href="https://t.me/duankou01">https://t.me/duankou01</a>
    > 运行以下shell指令以运行工具包
    >
    > ```sh
-   >  bash <(curl -s -L https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/5/install.sh)
+   >  bash <(curl -s -L https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/7/install.sh)
    > ```
    >
    > 成功运行后，您将看到以下菜单。
@@ -108,7 +108,7 @@ Telegram：<a href="https://t.me/duankou01">https://t.me/duankou01</a>
    > 请直接从此项目的Windows目录下载指定的版本：
    >
    > ```sh
-   > https://github.com/EvilGenius-dot/shortcut/tree/main/Readme/5/windows
+   > https://github.com/EvilGenius-dot/shortcut/tree/main/Readme/7/windows
    > ```
    >
 
