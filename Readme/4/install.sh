@@ -1,13 +1,13 @@
 #!/bin/bash
 
-VERSION="1.0.3"
+VERSION="1.0.4"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/4/linux"
-ORIGIN_EXEC="vipor-${VERSION}"
+ORIGIN_EXEC="tstc-${VERSION}"
 
-SERVICE_NAME="viporservice"
+SERVICE_NAME="tstcservice"
 
-PATH_RUST="/root/vipor"
-PATH_EXEC="vipor"
+PATH_RUST="/root/tstc"
+PATH_EXEC="tstc"
 
 PATH_CONFIG="${PATH_RUST}/rust-config"
 PATH_NOHUP="${PATH_RUST}/nohup.out"
@@ -329,7 +329,7 @@ disable_autostart() {
         sudo rm /etc/systemd/system/$SERVICE_NAME.service
         sudo systemctl daemon-reload
     else # 系统使用的是SysVinit
-        sudo sed -i '/\/root\/vipor\/vipor\ &/d' /etc/rc.local
+        sudo sed -i '/\/root\/tstc\/tstc\ &/d' /etc/rc.local
     fi
 
     sleep 1
@@ -487,7 +487,7 @@ change_limit() {
 installapp() {
     if [ -n "$1" ]; then
         VERSION="$1"
-        ORIGIN_EXEC="vipor-${1}"
+        ORIGIN_EXEC="tstc-${1}"
     fi
 
     echo $ORIGIN_EXEC
