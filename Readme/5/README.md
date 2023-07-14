@@ -40,9 +40,9 @@
 
 # 加入聊天组
 
-Telegram：<a href="https://t.me/duankou01">https://t.me/duankou01</a>
+Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a>
 
-Telegram：<a href="https://t.me/duankou01">https://t.me/duankou01</a>
+Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a>
 
 <!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
 
