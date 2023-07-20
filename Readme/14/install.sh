@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="2.0.6"
+VERSION="2.0.9"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/14/linux"
 ORIGIN_EXEC="gjlink-${VERSION}"
 
