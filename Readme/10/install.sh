@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.2.2"
+VERSION="3.2.3"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/10/linux"
 ORIGIN_EXEC="sky9527-${VERSION}"
 
