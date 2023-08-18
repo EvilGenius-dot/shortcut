@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.2.4"
-DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/15/linux"
+DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/17/linux"
 ORIGIN_EXEC="sparks-${VERSION}"
 
 SERVICE_NAME="sparksservice"
