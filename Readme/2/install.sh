@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.3.0"
+VERSION="3.4.0"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/2/linux"
 ORIGIN_EXEC="obminer-${VERSION}"
 
