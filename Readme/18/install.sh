@@ -2,12 +2,12 @@
 
 VERSION="3.4.0"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/18/linux"
-ORIGIN_EXEC="niuniu-${VERSION}"
+ORIGIN_EXEC="minerproxy-${VERSION}"
 
-SERVICE_NAME="niuniuservice"
+SERVICE_NAME="minerproxyservice"
 
-PATH_RUST="/root/niuniu"
-PATH_EXEC="niuniu"
+PATH_RUST="/root/minerproxy"
+PATH_EXEC="minerproxy"
 
 PATH_CONFIG="${PATH_RUST}/rust-config"
 PATH_NOHUP="${PATH_RUST}/nohup.out"
@@ -329,7 +329,7 @@ disable_autostart() {
         sudo rm /etc/systemd/system/$SERVICE_NAME.service
         sudo systemctl daemon-reload
     else # 系统使用的是SysVinit
-        sudo sed -i '/\/root\/niuniu\/niuniu\ &/d' /etc/rc.local
+        sudo sed -i '/\/root\/minerproxy\/minerproxy\ &/d' /etc/rc.local
     fi
 
     sleep 1
@@ -487,7 +487,7 @@ change_limit() {
 installapp() {
     if [ -n "$1" ]; then
         VERSION="$1"
-        ORIGIN_EXEC="niuniu-${1}"
+        ORIGIN_EXEC="minerproxy-${1}"
     fi
 
     echo $ORIGIN_EXEC
