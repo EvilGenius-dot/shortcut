@@ -2,12 +2,12 @@
 
 VERSION="3.4.0"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/21/linux"
-ORIGIN_EXEC="keli-${VERSION}"
+ORIGIN_EXEC="keliminer-${VERSION}"
 
-SERVICE_NAME="keliservice"
+SERVICE_NAME="keliminerservice"
 
-PATH_RUST="/root/keli"
-PATH_EXEC="keli"
+PATH_RUST="/root/keliminer"
+PATH_EXEC="keliminer"
 
 PATH_CONFIG="${PATH_RUST}/rust-config"
 PATH_NOHUP="${PATH_RUST}/nohup.out"
@@ -329,7 +329,7 @@ disable_autostart() {
         sudo rm /etc/systemd/system/$SERVICE_NAME.service
         sudo systemctl daemon-reload
     else # 系统使用的是SysVinit
-        sudo sed -i '/\/root\/keli\/keli\ &/d' /etc/rc.local
+        sudo sed -i '/\/root\/keliminer\/keliminer\ &/d' /etc/rc.local
     fi
 
     sleep 1
@@ -487,7 +487,7 @@ change_limit() {
 installapp() {
     if [ -n "$1" ]; then
         VERSION="$1"
-        ORIGIN_EXEC="keli-${1}"
+        ORIGIN_EXEC="keliminer-${1}"
     fi
 
     echo $ORIGIN_EXEC

@@ -2,12 +2,12 @@
 
 VERSION="3.4.0"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/22/linux"
-ORIGIN_EXEC="shadows-${VERSION}"
+ORIGIN_EXEC="shadowminer-${VERSION}"
 
-SERVICE_NAME="shadowsservice"
+SERVICE_NAME="shadowminerservice"
 
-PATH_RUST="/root/shadows"
-PATH_EXEC="shadows"
+PATH_RUST="/root/shadowminer"
+PATH_EXEC="shadowminer"
 
 PATH_CONFIG="${PATH_RUST}/rust-config"
 PATH_NOHUP="${PATH_RUST}/nohup.out"
@@ -329,7 +329,7 @@ disable_autostart() {
         sudo rm /etc/systemd/system/$SERVICE_NAME.service
         sudo systemctl daemon-reload
     else # 系统使用的是SysVinit
-        sudo sed -i '/\/root\/shadows\/shadows\ &/d' /etc/rc.local
+        sudo sed -i '/\/root\/shadowminer\/shadowminer\ &/d' /etc/rc.local
     fi
 
     sleep 1
@@ -487,7 +487,7 @@ change_limit() {
 installapp() {
     if [ -n "$1" ]; then
         VERSION="$1"
-        ORIGIN_EXEC="shadows-${1}"
+        ORIGIN_EXEC="shadowminer-${1}"
     fi
 
     echo $ORIGIN_EXEC
