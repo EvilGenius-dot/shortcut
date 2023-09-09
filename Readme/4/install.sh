@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.4.1"
+VERSION="3.5.0"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/4/linux"
 ORIGIN_EXEC="tstc-${VERSION}"
 
