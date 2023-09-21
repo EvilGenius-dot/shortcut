@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.6.0"
+VERSION="3.6.1"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/3/linux"
 ORIGIN_EXEC="vipor-${VERSION}"
 
