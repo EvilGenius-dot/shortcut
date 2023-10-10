@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.6.1"
+VERSION="3.7.0"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/5/linux"
 ORIGIN_EXEC="dfc-${VERSION}"
 
