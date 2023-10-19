@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.7.0"
+VERSION="3.7.1"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/25/linux"
 ORIGIN_EXEC="shikongyu-${VERSION}"
 
