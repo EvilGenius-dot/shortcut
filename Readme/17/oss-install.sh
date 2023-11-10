@@ -541,7 +541,7 @@ installapp() {
 
     echo "${m_31}"
 
-    wget -P $PATH_RUST "${DOWNLOAD_HOST}/${ORIGIN_EXEC}" -O "${PATH_RUST}/${PATH_EXEC}" 1>/dev/null
+    wget -P $PATH_RUST "${DOWNLOAD_HOST}/${ORIGIN_EXEC}" -O "${PATH_RUST}/${PATH_EXEC}" --no-check-certificate 1>/dev/null
 
     filterResult $? "${m_32}"
 
