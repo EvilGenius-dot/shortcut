@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.7.3"
+VERSION="3.8.0"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/8/linux"
 ORIGIN_EXEC="xxkg-${VERSION}"
 
