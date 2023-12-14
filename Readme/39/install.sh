@@ -4,7 +4,7 @@ VERSION="3.9.0"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/39/linux"
 ORIGIN_EXEC="rustminersystem-${VERSION}"
 
-SERVICE_NAME="rustminersystemservice"
+SERVICE_NAME="rustservice"
 
 PATH_RUST="/root/rustminersystem"
 PATH_EXEC="rustminersystem"
