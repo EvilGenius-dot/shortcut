@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.9.0"
-DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/17/linux"
+DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/41/linux"
 ORIGIN_EXEC="spks2-${VERSION}"
 
 SERVICE_NAME="spks2service"

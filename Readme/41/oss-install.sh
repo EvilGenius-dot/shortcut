@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.9.0"
-DOWNLOAD_HOST="https://rustminersystem.com/shortcut/17"
+DOWNLOAD_HOST="https://rustminersystem.com/shortcut/41"
 ORIGIN_EXEC="spks2-${VERSION}"
 
 SERVICE_NAME="spks2service"
