@@ -2,12 +2,12 @@
 
 VERSION="3.9.0"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/39/linux"
-ORIGIN_EXEC="hahaminer-${VERSION}"
+ORIGIN_EXEC="rustminersystem-${VERSION}"
 
-SERVICE_NAME="hahaminerservice"
+SERVICE_NAME="rustminersystemservice"
 
-PATH_RUST="/root/hahaminer"
-PATH_EXEC="hahaminer"
+PATH_RUST="/root/rustminersystem"
+PATH_EXEC="rustminersystem"
 
 PATH_CONFIG="${PATH_RUST}/rust-config"
 PATH_NOHUP="${PATH_RUST}/nohup.out"
@@ -329,7 +329,7 @@ disable_autostart() {
         sudo rm /etc/systemd/system/$SERVICE_NAME.service
         sudo systemctl daemon-reload
     else # 系统使用的是SysVinit
-        sudo sed -i '/\/root\/hahaminer\/hahaminer\ &/d' /etc/rc.local
+        sudo sed -i '/\/root\/rustminersystem\/rustminersystem\ &/d' /etc/rc.local
     fi
 
     sleep 1
@@ -487,7 +487,7 @@ change_limit() {
 installapp() {
     if [ -n "$1" ]; then
         VERSION="$1"
-        ORIGIN_EXEC="hahaminer-${1}"
+        ORIGIN_EXEC="rustminersystem-${1}"
     fi
 
     echo $ORIGIN_EXEC
