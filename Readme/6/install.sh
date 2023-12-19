@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.1"
+VERSION="3.9.2"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/6/linux"
 ORIGIN_EXEC="haowa-${VERSION}"
 
