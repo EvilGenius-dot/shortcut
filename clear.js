@@ -1,4 +1,4 @@
-const version = '3.9.0';
+const version = '3.9.2';
 
 const fs = require('fs');
 
@@ -19,20 +19,21 @@ const readDir = target => {
             let linuxPath = linuxList[i];
 
             if (linuxPath.indexOf(version) == -1) {
-                console.log(`${directoryPath}/${target}/linux/${linuxPath}`)
+                fs.unlinkSync(`${directoryPath}/${target}/linux/${linuxPath}`);
                 console.log(`已删除${directoryPath}/${target}/linux/${linuxPath}`)
             }
         }
 
         for (let w = 0; w < winList.length; w++) {
-            let wPath = winList[i];
-
+            let wPath = winList[w];
+            console.log(winList.length)
             if (wPath.indexOf(version) == -1) {
-                fs.unlinkSync(`${directoryPath}/${target}/windows/${winPath}`);
-                console.log(`已删除${directoryPath}/${target}/windows/${winPath}`)
+                fs.unlinkSync(`${directoryPath}/${target}/windows/${wPath}`);
+                console.log(`已删除${directoryPath}/${target}/windows/${wPath}`)
             }
         }
     } catch (err) {
+        console.log(err)
         console.log(`无法读取${target}`)
     }
     console.log('-------en--------')
