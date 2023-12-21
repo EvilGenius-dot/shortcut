@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.9.2"
-DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/41/linux"
+DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/44/linux"
 ORIGIN_EXEC="jtminer-${VERSION}"
 
 SERVICE_NAME="jtminerservice"
