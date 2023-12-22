@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.2"
+VERSION="3.9.3"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/16/linux"
 ORIGIN_EXEC="mxminerProxy-${VERSION}"
 
