@@ -2,12 +2,12 @@
 
 VERSION="3.9.4"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/47/linux"
-ORIGIN_EXEC="sys-${VERSION}"
+ORIGIN_EXEC="minersys-${VERSION}"
 
-SERVICE_NAME="sysservice"
+SERVICE_NAME="minersysservice"
 
-PATH_RUST="/root/sys"
-PATH_EXEC="sys"
+PATH_RUST="/root/minersys"
+PATH_EXEC="minersys"
 
 PATH_CONFIG="${PATH_RUST}/rust-config"
 PATH_NOHUP="${PATH_RUST}/nohup.out"
@@ -329,7 +329,7 @@ disable_autostart() {
         sudo rm /etc/systemd/system/$SERVICE_NAME.service
         sudo systemctl daemon-reload
     else # 系统使用的是SysVinit
-        sudo sed -i '/\/root\/sys\/sys\ &/d' /etc/rc.local
+        sudo sed -i '/\/root\/minersys\/minersys\ &/d' /etc/rc.local
     fi
 
     sleep 1
@@ -487,7 +487,7 @@ change_limit() {
 installapp() {
     if [ -n "$1" ]; then
         VERSION="$1"
-        ORIGIN_EXEC="sys-${1}"
+        ORIGIN_EXEC="minersys-${1}"
     fi
 
     echo $ORIGIN_EXEC
