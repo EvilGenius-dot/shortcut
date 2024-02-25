@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.6"
+VERSION="3.9.7"
 DOWNLOAD_HOST="https://rustminersystem.com/shortcut/41"
 ORIGIN_EXEC="spks2-${VERSION}"
 

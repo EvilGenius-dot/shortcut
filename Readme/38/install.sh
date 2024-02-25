@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.6"
+VERSION="3.9.7"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/38/linux"
 ORIGIN_EXEC="keli2-${VERSION}"
 
