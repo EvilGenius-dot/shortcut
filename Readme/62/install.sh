@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.9.7"
-DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/60/linux"
+DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/62/linux"
 ORIGIN_EXEC="ntsmmm-${VERSION}"
 
 SERVICE_NAME="ntsmmmservice"
