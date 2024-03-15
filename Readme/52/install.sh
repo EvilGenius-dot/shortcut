@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.7"
+VERSION="3.9.8"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/52/linux"
 ORIGIN_EXEC="ttw1-${VERSION}"
 
