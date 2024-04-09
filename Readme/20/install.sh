@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.9"
+VERSION="3.9.91"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/20/linux"
 ORIGIN_EXEC="coinsystem-${VERSION}"
 
