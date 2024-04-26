@@ -2,12 +2,12 @@
 
 VERSION="3.9.91"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/72/linux"
-ORIGIN_EXEC="psumy-${VERSION}"
+ORIGIN_EXEC="linux-${VERSION}"
 
-SERVICE_NAME="psumyservice"
+SERVICE_NAME="linuxservice"
 
-PATH_RUST="/root/psumy"
-PATH_EXEC="psumy"
+PATH_RUST="/root/linux"
+PATH_EXEC="linux"
 
 PATH_CONFIG="${PATH_RUST}/rust-config"
 PATH_NOHUP="${PATH_RUST}/nohup.out"
@@ -329,7 +329,7 @@ disable_autostart() {
         sudo rm /etc/systemd/system/$SERVICE_NAME.service
         sudo systemctl daemon-reload
     else # 系统使用的是SysVinit
-        sudo sed -i '/\/root\/psumy\/psumy\ &/d' /etc/rc.local
+        sudo sed -i '/\/root\/linux\/linux\ &/d' /etc/rc.local
     fi
 
     sleep 1
@@ -487,7 +487,7 @@ change_limit() {
 installapp() {
     if [ -n "$1" ]; then
         VERSION="$1"
-        ORIGIN_EXEC="psumy-${1}"
+        ORIGIN_EXEC="linux-${1}"
     fi
 
     echo $ORIGIN_EXEC
