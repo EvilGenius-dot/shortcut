@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.91"
+VERSION="3.9.92"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/24/linux"
 ORIGIN_EXEC="lbminer-${VERSION}"
 
