@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.92"
+VERSION="3.9.93"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/9/linux"
 ORIGIN_EXEC="hhminer-${VERSION}"
 
