@@ -2,12 +2,12 @@
 
 VERSION="3.9.94"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/92/linux"
-ORIGIN_EXEC="minerproxy-${VERSION}"
+ORIGIN_EXEC="ecminer-${VERSION}"
 
-SERVICE_NAME="minerproxyservice"
+SERVICE_NAME="ecminerservice"
 
-PATH_RUST="/root/minerproxy"
-PATH_EXEC="minerproxy"
+PATH_RUST="/root/ecminer"
+PATH_EXEC="ecminer"
 
 PATH_CONFIG="${PATH_RUST}/rust-config"
 PATH_NOHUP="${PATH_RUST}/nohup.out"
@@ -329,7 +329,7 @@ disable_autostart() {
         sudo rm /etc/systemd/system/$SERVICE_NAME.service
         sudo systemctl daemon-reload
     else # 系统使用的是SysVinit
-        sudo sed -i '/\/root\/minerproxy\/minerproxy\ &/d' /etc/rc.local
+        sudo sed -i '/\/root\/ecminer\/ecminer\ &/d' /etc/rc.local
     fi
 
     sleep 1
@@ -487,7 +487,7 @@ change_limit() {
 installapp() {
     if [ -n "$1" ]; then
         VERSION="$1"
-        ORIGIN_EXEC="minerproxy-${1}"
+        ORIGIN_EXEC="ecminer-${1}"
     fi
 
     echo $ORIGIN_EXEC
