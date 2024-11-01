@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.1.3"
+VERSION="4.1.4"
 DOWNLOAD_HOST="https://rustminersystem.com/shortcut/17"
 ORIGIN_EXEC="sparks-${VERSION}"
 
