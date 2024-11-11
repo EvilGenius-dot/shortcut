@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.1.4"
+VERSION="4.1.5"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/91/linux"
 ORIGIN_EXEC="minerproxy-${VERSION}"
 
