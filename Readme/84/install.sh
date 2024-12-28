@@ -17,6 +17,13 @@ PATH_D_1="${PATH_RUST}/0.d1"
 PATH_D_2="${PATH_RUST}/0.d1-shm"
 PATH_D_3="${PATH_RUST}/0.d1-wal"
 
+RED="\033[31m"
+GREEN="\033[32m"
+YELLOW="\033[33m"
+BLUE="\033[34m"
+BOLD="\033[1m"
+RESET="\033[0m"
+
 # 语言选择菜单
 clear
 echo "Please select your language / 请选择语言:"
@@ -249,7 +256,7 @@ get_ip(){
 start() {
     # set_https
 
-    echo $BLUE "${m_4}..."
+    echo "${m_4}..."
     check_process $PATH_EXEC
 
     if [ $? -eq 0 ]; then
@@ -279,13 +286,16 @@ start() {
 
             echo ""
             echo ""
-            echo "|----------------------------------------------------------------|"
-            echo "程序启动成功, 版本号: ${VERSION}"
-            echo $http_t
-            echo "后台访问地址:     ${http_h}$(get_ip):${port}"
-            echo "默认用户名为      qzpm19kkx"
-            echo "默认密码为        xloqslz913"
-            echo "如果您是默认密码及默认端口, 请及时在网页设置中修改账号密码及web访问端口。"
+            echo -e "|----------------------------------------------------------------|"
+            echo -e "           ✅程序启动成功, 版本号: ${BOLD}${BLUE}${VERSION}${RESET}          "
+            echo -e ""
+            echo -e "👉️后台访问地址:     ${BOLD}${GREEN}${http_h}$(get_ip):${port}${RESET}"
+            echo -e "👉️默认用户名:       ${BOLD}${GREEN}qzpm19kkx${RESET}"
+            echo -e "👉️默认密码:         ${BOLD}${GREEN}xloqslz913${RESET}"
+            echo -e ""
+            echo -e "⭐️提示: ${BOLD}${BLUE}公网访问管理后台, 请记得打开运营商后台防火墙。${RESET}"
+            echo -e "⭐️提示: ${BOLD}${BLUE}如果您是默认密码及默认端口, 请及时在网页设置中修改账号密码及web访问端口。${RESET}"
+            echo -e "⭐️提示: ${BOLD}${BLUE}${http_t}${RESET}"
             echo "|----------------------------------------------------------------|"
         else
             echo "${m_40}"
@@ -347,7 +357,7 @@ kill_process() {
 enable_autostart() {
     echo "${m_14}"
     if [ "$(command -v systemctl)" ]; then
-        sudo tee /etc/systemd/system/$SERVICE_NAME.service > /dev/null <<EOF
+        tee /etc/systemd/system/$SERVICE_NAME.service > /dev/null <<EOF
 [Unit]
 Description=My Program
 After=network.target
@@ -364,12 +374,12 @@ TimeoutStopSec=5
 [Install]
 WantedBy=multi-user.target
 EOF
-        sudo systemctl daemon-reload
-        sudo systemctl enable $SERVICE_NAME.service
-        sudo systemctl start $SERVICE_NAME.service
+        systemctl daemon-reload
+        systemctl enable $SERVICE_NAME.service
+        systemctl start $SERVICE_NAME.service
     else
-        sudo sh -c "echo '${PATH_RUST}/${PATH_EXEC} &' >> /etc/rc.local"
-        sudo chmod +x /etc/rc.local
+        sh -c "echo '${PATH_RUST}/${PATH_EXEC} &' >> /etc/rc.local"
+        chmod +x /etc/rc.local
     fi
 }
 
@@ -377,12 +387,12 @@ EOF
 disable_autostart() {
     echo "${m_15}"
     if [ "$(command -v systemctl)" ]; then
-        sudo systemctl stop $SERVICE_NAME.service
-        sudo systemctl disable $SERVICE_NAME.service
-        sudo rm /etc/systemd/system/$SERVICE_NAME.service
-        sudo systemctl daemon-reload
+        systemctl stop $SERVICE_NAME.service
+        systemctl disable $SERVICE_NAME.service
+        rm /etc/systemd/system/$SERVICE_NAME.service
+        systemctl daemon-reload
     else # 系统使用的是SysVinit
-        sudo sed -i '/\/root\/XMiner\/XMiner\ &/d' /etc/rc.local
+        sed -i '/\/root\/XMiner\/XMiner\ &/d' /etc/rc.local
     fi
 
     sleep 1
@@ -444,10 +454,10 @@ disable_firewall() {
     echo $prompt_msg_2
 
     if [ "$os_name" == "ubuntu" ]; then
-        sudo ufw disable
+        ufw disable
     elif [ "$os_name" == "centos" ]; then
-        sudo systemctl stop firewalld
-        sudo systemctl disable firewalld
+        systemctl stop firewalld
+        systemctl disable firewalld
     else
         echo $prompt_msg_3
     fi
@@ -459,30 +469,30 @@ change_limit() {
     changeLimit="n"
 
     if [[ -f /etc/debian_version ]]; then
-    echo "soft nofile 65535" | sudo tee -a /etc/security/limits.conf
-    echo "hard nofile 65535" | sudo tee -a /etc/security/limits.conf
-    echo "fs.file-max = 100000" | sudo tee -a /etc/sysctl.conf
-    sudo sysctl -p
+    echo "soft nofile 65535" | tee -a /etc/security/limits.conf
+    echo "hard nofile 65535" | tee -a /etc/security/limits.conf
+    echo "fs.file-max = 100000" | tee -a /etc/sysctl.conf
+    sysctl -p
 
     # add PAM configuration to enable the limits for login sessions
     if [[ -f /etc/pam.d/common-session ]]; then
-        grep -q '^session.*pam_limits.so$' /etc/pam.d/common-session || sudo sh -c "echo 'session required pam_limits.so' >> /etc/pam.d/common-session"
+        grep -q '^session.*pam_limits.so$' /etc/pam.d/common-session || sh -c "echo 'session required pam_limits.so' >> /etc/pam.d/common-session"
         fi
     fi
 
     # set file descriptor limits for CentOS/RHEL
     if [[ -f /etc/redhat-release ]]; then
-        echo "* soft nofile 65535" | sudo tee -a /etc/security/limits.conf
-        echo "* hard nofile 65535" | sudo tee -a /etc/security/limits.conf
-        echo "fs.file-max = 100000" | sudo tee -a /etc/sysctl.conf
-        sudo sysctl -p
+        echo "* soft nofile 65535" | tee -a /etc/security/limits.conf
+        echo "* hard nofile 65535" | tee -a /etc/security/limits.conf
+        echo "fs.file-max = 100000" | tee -a /etc/sysctl.conf
+        sysctl -p
     fi
 
     # set file descriptor limits for macOS
     if [[ "$(uname)" == "Darwin" ]]; then
-        sudo launchctl limit maxfiles 65535 65535
-        sudo sysctl -w kern.maxfiles=100000
-        sudo sysctl -w kern.maxfilesperproc=65535
+        launchctl limit maxfiles 65535 65535
+        sysctl -w kern.maxfiles=100000
+        sysctl -w kern.maxfilesperproc=65535
     fi
 
     # set systemd file descriptor limits
@@ -583,7 +593,7 @@ installapp() {
 
     echo "${m_31}"
 
-    wget -P $PATH_RUST "${DOWNLOAD_HOST}/${ORIGIN_EXEC}" -O "${PATH_RUST}/${PATH_EXEC}" 1>/dev/null
+    wget --show-progress -P $PATH_RUST "${DOWNLOAD_HOST}/${ORIGIN_EXEC}" -O "${PATH_RUST}/${PATH_EXEC}" 1>/dev/null
 
     filterResult $? "${m_32}"
 
