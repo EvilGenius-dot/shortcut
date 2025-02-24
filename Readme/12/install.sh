@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.3.1"
+VERSION="4.3.2"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/12/linux"
 ORIGIN_EXEC="stminer-${VERSION}"
 
