@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.3.3"
+VERSION="4.3.4"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/21/linux"
 ORIGIN_EXEC="keliminer-${VERSION}"
 
