@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.4.1"
+VERSION="4.4.2"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/34/linux"
 ORIGIN_EXEC="innovate-${VERSION}"
 
