@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.4.4"
+VERSION="4.4.5"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/28/linux"
 ORIGIN_EXEC="clminer-${VERSION}"
 
