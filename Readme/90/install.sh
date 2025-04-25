@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.4.5"
+VERSION="4.4.6"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/90/linux"
 ORIGIN_EXEC="qwe-${VERSION}"
 
