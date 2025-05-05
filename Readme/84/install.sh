@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.4.6"
+VERSION="4.4.7"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/84/linux"
 ORIGIN_EXEC="XMiner-${VERSION}"
 
