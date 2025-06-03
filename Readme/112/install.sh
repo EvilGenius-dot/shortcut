@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.4.8"
+VERSION="4.4.9"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/112/linux"
 ORIGIN_EXEC="jcminer-${VERSION}"
 
