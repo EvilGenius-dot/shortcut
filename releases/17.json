@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "17",
+  "name": "sparks",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "sparks",
+      "name": "sparks-6.4.0",
+      "key": "Readme/17/linux/sparks-6.4.0",
+      "version": "6.4.0",
+      "size": 20815428,
+      "sha256": "503f9a1c88834aac2663104a37b078204f5e6f22e3f997b1a6ad40c6c7cc23e1"
+    },
+    {
+      "platform": "linux",
+      "appId": "sparks",
+      "name": "sparks-6.4.1",
+      "key": "Readme/17/linux/sparks-6.4.1",
+      "version": "6.4.1",
+      "size": 23525084,
+      "sha256": "fdb25130508cfbe2df28e518f8657c27c795880e698d9de44bcba1ffcaa38fbf"
+    },
+    {
+      "platform": "windows",
+      "appId": "sparks",
+      "name": "sparks-6.4.0.exe",
+      "key": "Readme/17/windows/sparks-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20245504,
+      "sha256": "2e9dc34567323b6950fc8f9301f7c253b18e91f990b505a9b266d4147ed55fba"
+    },
+    {
+      "platform": "windows",
+      "appId": "sparks",
+      "name": "sparks-6.4.1.exe",
+      "key": "Readme/17/windows/sparks-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22935552,
+      "sha256": "137b3dee42f23d265b8d74ee7b4dfeca9cd4e41f453bc981d1921c4cbbbffb70"
+    }
+  ]
+}

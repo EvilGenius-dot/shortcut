@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "49",
+  "name": "keli3",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "keli3",
+      "name": "keli3-6.4.0",
+      "key": "Readme/49/linux/keli3-6.4.0",
+      "version": "6.4.0",
+      "size": 20815708,
+      "sha256": "1a3ffb074504792153814a4c22dffc30fda0952b68260f72b04c079ed70a8cad"
+    },
+    {
+      "platform": "linux",
+      "appId": "keli3",
+      "name": "keli3-6.4.1",
+      "key": "Readme/49/linux/keli3-6.4.1",
+      "version": "6.4.1",
+      "size": 23524756,
+      "sha256": "1bf513ba5d54b16bfb432945d6ddb27739ba0218843be9863990e0c2928e6d43"
+    },
+    {
+      "platform": "windows",
+      "appId": "keli3",
+      "name": "keli3-6.4.0.exe",
+      "key": "Readme/49/windows/keli3-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20246016,
+      "sha256": "d61d583710e3d400b80802f17749de0ed5ae9ad6d990b16204e6aa967fa825b2"
+    },
+    {
+      "platform": "windows",
+      "appId": "keli3",
+      "name": "keli3-6.4.1.exe",
+      "key": "Readme/49/windows/keli3-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22935040,
+      "sha256": "072ab43d5a3a9e90aded145468f11bc6ef020bd416d228e40811a15ef186dfb1"
+    }
+  ]
+}

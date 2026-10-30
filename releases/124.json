@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "124",
+  "name": "DCMiner",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "DCMiner",
+      "name": "DCMiner-6.4.0",
+      "key": "Readme/124/linux/DCMiner-6.4.0",
+      "version": "6.4.0",
+      "size": 20815796,
+      "sha256": "2dadf91b2a365c1fe780c4a0fbf56025df815eb7f17f2a9c9f97f76e005fd5dc"
+    },
+    {
+      "platform": "linux",
+      "appId": "DCMiner",
+      "name": "DCMiner-6.4.1",
+      "key": "Readme/124/linux/DCMiner-6.4.1",
+      "version": "6.4.1",
+      "size": 23525444,
+      "sha256": "adb082df2aaf91780b762bb3b055d65f21605ab2fde8f84e03ab62f0d758bfe6"
+    },
+    {
+      "platform": "windows",
+      "appId": "DCMiner",
+      "name": "DCMiner-6.4.0.exe",
+      "key": "Readme/124/windows/DCMiner-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20246016,
+      "sha256": "315042991294c0d4da1e9b2dcdd1f22aaa082f9cff95b63a1a0f4f5cc247403f"
+    },
+    {
+      "platform": "windows",
+      "appId": "DCMiner",
+      "name": "DCMiner-6.4.1.exe",
+      "key": "Readme/124/windows/DCMiner-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22936064,
+      "sha256": "e5a3ea857fea5b97f93fc446cda29a87b57063ed2b4e000448e8ceb9bc33273b"
+    }
+  ]
+}

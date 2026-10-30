@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "cid": "136",
+  "name": "tcminerproxy",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "tcminerproxy",
+      "name": "tcminerproxy-6.4.1",
+      "key": "Readme/136/linux/tcminerproxy-6.4.1",
+      "version": "6.4.1",
+      "size": 23554152,
+      "sha256": "db5acbc8753ee2c75f8a7e8ea096669c3c732b9dcbb631daddd30b53dc72d5e6"
+    },
+    {
+      "platform": "windows",
+      "appId": "tcminerproxy",
+      "name": "tcminerproxy-6.4.1.exe",
+      "key": "Readme/136/windows/tcminerproxy-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22964736,
+      "sha256": "e59aabb19dc306218c1f8162e30dfc15b671e91cbcc612a3c07d5937e58b34b1"
+    }
+  ]
+}

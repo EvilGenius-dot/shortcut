@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "69",
+  "name": "btcminer",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "btcminer",
+      "name": "btcminer-6.4.0",
+      "key": "Readme/69/linux/btcminer-6.4.0",
+      "version": "6.4.0",
+      "size": 22027048,
+      "sha256": "cd3a415ae244a36f947db8860dc1774d7fe27098ff9621c4da36c0d713bf6fb3"
+    },
+    {
+      "platform": "linux",
+      "appId": "btcminer",
+      "name": "btcminer-6.4.1",
+      "key": "Readme/69/linux/btcminer-6.4.1",
+      "version": "6.4.1",
+      "size": 24739252,
+      "sha256": "9c9e108afb2ab3c1821515a2bd19948d888f35011d93c11d277306e1b14f396a"
+    },
+    {
+      "platform": "windows",
+      "appId": "btcminer",
+      "name": "btcminer-6.4.0.exe",
+      "key": "Readme/69/windows/btcminer-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 21457408,
+      "sha256": "48d18bc41dcc761c6041631c69809940da97e9620af9d1ddc2ad4c31e1629f17"
+    },
+    {
+      "platform": "windows",
+      "appId": "btcminer",
+      "name": "btcminer-6.4.1.exe",
+      "key": "Readme/69/windows/btcminer-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 24150016,
+      "sha256": "96b7038e26bc9b2c9896ca699f6bfc537143e97558dca18315cf24c535ff5991"
+    }
+  ]
+}

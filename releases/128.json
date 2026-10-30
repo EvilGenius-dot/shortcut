@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "128",
+  "name": "hqminer",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "hqminer",
+      "name": "hqminer-6.4.0",
+      "key": "Readme/128/linux/hqminer-6.4.0",
+      "version": "6.4.0",
+      "size": 20993072,
+      "sha256": "61e0ad78ec21c376c658c36a95a8b708e30d281765081eea2e0a9e8d850f716d"
+    },
+    {
+      "platform": "linux",
+      "appId": "hqminer",
+      "name": "hqminer-6.4.1",
+      "key": "Readme/128/linux/hqminer-6.4.1",
+      "version": "6.4.1",
+      "size": 23705424,
+      "sha256": "5c4d08d3a8ad6da92b2350467faf13829c2375ba7524174736bb756f8f7fc6c6"
+    },
+    {
+      "platform": "windows",
+      "appId": "hqminer",
+      "name": "hqminer-6.4.0.exe",
+      "key": "Readme/128/windows/hqminer-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20423168,
+      "sha256": "2dc9eb2c4cddf9921f255e0b9791d5bfe41051f64712851591443f3c15e58cd8"
+    },
+    {
+      "platform": "windows",
+      "appId": "hqminer",
+      "name": "hqminer-6.4.1.exe",
+      "key": "Readme/128/windows/hqminer-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 23115776,
+      "sha256": "0dc1dabafaaca6535ec2d6d5bc83425ae68161b1d900ce521a7aa904672a0d7f"
+    }
+  ]
+}

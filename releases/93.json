@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "cid": "93",
+  "name": "viporx",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "viporx",
+      "name": "viporx-6.4.1",
+      "key": "Readme/93/linux/viporx-6.4.1",
+      "version": "6.4.1",
+      "size": 23590296,
+      "sha256": "9c2f73735ad98be73f26e6db20bb30a4ad6f4638986e47a66ba4b459da3872be"
+    },
+    {
+      "platform": "windows",
+      "appId": "viporx",
+      "name": "viporx-6.4.1.exe",
+      "key": "Readme/93/windows/viporx-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 23000576,
+      "sha256": "fba5675ec26b885e60ee19ad3ec3e6dae3b8d81a2a84d97b9396bff761a921c6"
+    }
+  ]
+}

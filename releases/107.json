@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "107",
+  "name": "tominer",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "tominer",
+      "name": "tominer-6.4.0",
+      "key": "Readme/107/linux/tominer-6.4.0",
+      "version": "6.4.0",
+      "size": 20823408,
+      "sha256": "734c6b431ea4ffec2df324e68b17cad6f411cf23282641a682a891f889caf4ec"
+    },
+    {
+      "platform": "linux",
+      "appId": "tominer",
+      "name": "tominer-6.4.1",
+      "key": "Readme/107/linux/tominer-6.4.1",
+      "version": "6.4.1",
+      "size": 23533468,
+      "sha256": "41a0ec7f93391aa0f14863d689772d63f6a260857eb0ab2b01a60c493e64a09a"
+    },
+    {
+      "platform": "windows",
+      "appId": "tominer",
+      "name": "tominer-6.4.0.exe",
+      "key": "Readme/107/windows/tominer-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20253184,
+      "sha256": "d00a9da8b3c199abe6a7c87332faf86add6324217c30a43d0ce4faf70acb5e3b"
+    },
+    {
+      "platform": "windows",
+      "appId": "tominer",
+      "name": "tominer-6.4.1.exe",
+      "key": "Readme/107/windows/tominer-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22943744,
+      "sha256": "6eb533e01facbee2311983f32d2423636769819d0393346eb8b5ab4be49be074"
+    }
+  ]
+}

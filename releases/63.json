@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "63",
+  "name": "xxminer2",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "xxminer2",
+      "name": "xxminer2-6.4.0",
+      "key": "Readme/63/linux/xxminer2-6.4.0",
+      "version": "6.4.0",
+      "size": 20813100,
+      "sha256": "fe3057cd7d43af18102233cecf0004b4a0c3181aee51c6ede183f3013984b137"
+    },
+    {
+      "platform": "linux",
+      "appId": "xxminer2",
+      "name": "xxminer2-6.4.1",
+      "key": "Readme/63/linux/xxminer2-6.4.1",
+      "version": "6.4.1",
+      "size": 23524796,
+      "sha256": "3c29d22dd73d57a4ef91d7dbc7e0ad0ee87b82c3399835947f29bc3b5ec4fd3b"
+    },
+    {
+      "platform": "windows",
+      "appId": "xxminer2",
+      "name": "xxminer2-6.4.0.exe",
+      "key": "Readme/63/windows/xxminer2-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20243456,
+      "sha256": "31be4f0fb53fa4ba9a795ea64d86394ffedaf8c85c514839fe0d50ea57802f48"
+    },
+    {
+      "platform": "windows",
+      "appId": "xxminer2",
+      "name": "xxminer2-6.4.1.exe",
+      "key": "Readme/63/windows/xxminer2-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22935040,
+      "sha256": "f08e5df12ee26ce2cc95978876a21d7701cfad2aa0c9e97105956d53cae7e1c7"
+    }
+  ]
+}

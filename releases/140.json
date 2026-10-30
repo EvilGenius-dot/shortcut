@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "140",
+  "name": "3u",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "3u",
+      "name": "3u-6.4.0",
+      "key": "Readme/140/linux/3u-6.4.0",
+      "version": "6.4.0",
+      "size": 23388180,
+      "sha256": "a828e93ce635b6a2975a5ab1ad2673024f3cc307ee6c7fdd9b5fa688a1c26f34"
+    },
+    {
+      "platform": "linux",
+      "appId": "3u",
+      "name": "3u-6.4.1",
+      "key": "Readme/140/linux/3u-6.4.1",
+      "version": "6.4.1",
+      "size": 23489416,
+      "sha256": "d57ebeb56daf34d9fdef99460a96038c6256f4af917fca2e567008ef5a984fdd"
+    },
+    {
+      "platform": "windows",
+      "appId": "3u",
+      "name": "3u-6.4.0.exe",
+      "key": "Readme/140/windows/3u-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 22817280,
+      "sha256": "55dd6892dcd791d9f10a17d43af867583a31929bc791a3ff6bcb60e7d1a50e35"
+    },
+    {
+      "platform": "windows",
+      "appId": "3u",
+      "name": "3u-6.4.1.exe",
+      "key": "Readme/140/windows/3u-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22900224,
+      "sha256": "e9719246e905d85b1bc69bcf721438669dd806bfcffa093f787c0f02a147efe2"
+    }
+  ]
+}

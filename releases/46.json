@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "46",
+  "name": "prominer",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "prominer",
+      "name": "prominer-6.4.0",
+      "key": "Readme/46/linux/prominer-6.4.0",
+      "version": "6.4.0",
+      "size": 20815732,
+      "sha256": "463b193c76984a75fde19337bd6d8666d2826fd89a4380019961fbc7db212379"
+    },
+    {
+      "platform": "linux",
+      "appId": "prominer",
+      "name": "prominer-6.4.1",
+      "key": "Readme/46/linux/prominer-6.4.1",
+      "version": "6.4.1",
+      "size": 23525652,
+      "sha256": "0c5cff7d4cb5267f8be884415bea492825e6ff4c98ff6c2ddc779db52a105aa6"
+    },
+    {
+      "platform": "windows",
+      "appId": "prominer",
+      "name": "prominer-6.4.0.exe",
+      "key": "Readme/46/windows/prominer-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20246016,
+      "sha256": "378d0118626815e1aa7b2f5d0231148f95a428a454e6bb0212c3b77122810696"
+    },
+    {
+      "platform": "windows",
+      "appId": "prominer",
+      "name": "prominer-6.4.1.exe",
+      "key": "Readme/46/windows/prominer-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22936064,
+      "sha256": "444fceaee8db9dca5f8aa07a7f180448ad2d03de3cdaeb965ef9321168280fd2"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "cid": "105",
+  "name": "nmminer",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "nmminer",
+      "name": "nmminer-6.4.1",
+      "key": "Readme/105/linux/nmminer-6.4.1",
+      "version": "6.4.1",
+      "size": 23524116,
+      "sha256": "fd2d6d6c3c64ae46bcb0f8d1faabef7dd64464838bfc6d26ea17f5720fd968ed"
+    },
+    {
+      "platform": "windows",
+      "appId": "nmminer",
+      "name": "nmminer-6.4.1.exe",
+      "key": "Readme/105/windows/nmminer-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22934528,
+      "sha256": "5b0631fb15945cb4746ca51bbd8bf02df612e23df036a8042413a873d198d34f"
+    }
+  ]
+}

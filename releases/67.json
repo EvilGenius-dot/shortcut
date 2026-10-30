@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "cid": "67",
+  "name": "sz",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "sz",
+      "name": "sz-6.4.1",
+      "key": "Readme/67/linux/sz-6.4.1",
+      "version": "6.4.1",
+      "size": 23524276,
+      "sha256": "3c08e50196d39a4ff9c79649ec7f8c8f9e8248cea49e51dfb83b39aaeb33a557"
+    },
+    {
+      "platform": "windows",
+      "appId": "sz",
+      "name": "sz-6.4.1.exe",
+      "key": "Readme/67/windows/sz-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22934528,
+      "sha256": "0ec23860bb76b54b32286987357926b4bcf772e9a09e90d4fd0a5633579c006f"
+    }
+  ]
+}

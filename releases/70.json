@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "cid": "70",
+  "name": "sky",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "sky",
+      "name": "sky-6.4.1",
+      "key": "Readme/70/linux/sky-6.4.1",
+      "version": "6.4.1",
+      "size": 23523164,
+      "sha256": "4293ca1fa7444ae05ae64ad8d88f1cf4bfe7af045024e3bd893aabdd5c7d4e8b"
+    },
+    {
+      "platform": "windows",
+      "appId": "sky",
+      "name": "sky-6.4.1.exe",
+      "key": "Readme/70/windows/sky-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22933504,
+      "sha256": "09415628b4bc4ae44476176ed825763ccb802234232e14b23e1a2d49b3fceebf"
+    }
+  ]
+}

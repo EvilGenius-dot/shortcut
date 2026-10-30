@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "38",
+  "name": "keli2",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "keli2",
+      "name": "keli2-6.4.0",
+      "key": "Readme/38/linux/keli2-6.4.0",
+      "version": "6.4.0",
+      "size": 20815716,
+      "sha256": "50308ace5df4f093626743c959b0ef6ffdbad3bc09e9690d643738365eff6e49"
+    },
+    {
+      "platform": "linux",
+      "appId": "keli2",
+      "name": "keli2-6.4.1",
+      "key": "Readme/38/linux/keli2-6.4.1",
+      "version": "6.4.1",
+      "size": 23524532,
+      "sha256": "853059183463f66003341ddfd8f38459e585f81a086bd75a588561f6bf49cf39"
+    },
+    {
+      "platform": "windows",
+      "appId": "keli2",
+      "name": "keli2-6.4.0.exe",
+      "key": "Readme/38/windows/keli2-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20246016,
+      "sha256": "bc3b25b32030bf2a7fa25ade49b046d3869558cde6b71b50e75e4e7384122e7a"
+    },
+    {
+      "platform": "windows",
+      "appId": "keli2",
+      "name": "keli2-6.4.1.exe",
+      "key": "Readme/38/windows/keli2-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22935040,
+      "sha256": "6c07d566f9b48950d2120fa97f868703104dbf50bdc5c00a85ff198961b6c4d8"
+    }
+  ]
+}

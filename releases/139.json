@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "cid": "139",
+  "name": "io",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "io",
+      "name": "io-6.4.1",
+      "key": "Readme/139/linux/io-6.4.1",
+      "version": "6.4.1",
+      "size": 23521324,
+      "sha256": "089d2c608e4b44917b137fa53ca1357acbcfeb59631f40e6bf89bd5b242110fe"
+    },
+    {
+      "platform": "windows",
+      "appId": "io",
+      "name": "io-6.4.1.exe",
+      "key": "Readme/139/windows/io-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22931968,
+      "sha256": "fad1aab73f05077f8e0d90ad847ae98682edd5304899617ae84b383e9adf8d1d"
+    }
+  ]
+}

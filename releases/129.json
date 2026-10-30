@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "129",
+  "name": "btcline",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "btcline",
+      "name": "btcline-6.4.0",
+      "key": "Readme/129/linux/btcline-6.4.0",
+      "version": "6.4.0",
+      "size": 20815756,
+      "sha256": "9d011be8455b4019edb2e12a3dd58ee3fc8779ff5b8b69b23d9e42b94c7fdbd5"
+    },
+    {
+      "platform": "linux",
+      "appId": "btcline",
+      "name": "btcline-6.4.1",
+      "key": "Readme/129/linux/btcline-6.4.1",
+      "version": "6.4.1",
+      "size": 23524436,
+      "sha256": "a220caa478731a62677ff50edcc3477fe3aff59405cdcc87af91fde12bf7fa45"
+    },
+    {
+      "platform": "windows",
+      "appId": "btcline",
+      "name": "btcline-6.4.0.exe",
+      "key": "Readme/129/windows/btcline-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20246016,
+      "sha256": "8b8dcdde7b5c51e8a5b4af44cab0600680141edc87d90757f8956fcf39cbc618"
+    },
+    {
+      "platform": "windows",
+      "appId": "btcline",
+      "name": "btcline-6.4.1.exe",
+      "key": "Readme/129/windows/btcline-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22935040,
+      "sha256": "368b5e4c447457f7aedc5ce67b5c064d9eff0ce7ebd5560f944fe77422bc8fc5"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "cid": "40",
+  "name": "btcproxy",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "btcproxy",
+      "name": "btcproxy-6.4.1",
+      "key": "Readme/40/linux/btcproxy-6.4.1",
+      "version": "6.4.1",
+      "size": 23524676,
+      "sha256": "64258b1e75234cb95ee201ef727c1a7548e44536f3ac06300a9032c4da889540"
+    },
+    {
+      "platform": "windows",
+      "appId": "btcproxy",
+      "name": "btcproxy-6.4.1.exe",
+      "key": "Readme/40/windows/btcproxy-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22935040,
+      "sha256": "af5e394d0180f19df52aa5a6a95573457fa8ee10eea59be60112fbf34700ee6e"
+    }
+  ]
+}

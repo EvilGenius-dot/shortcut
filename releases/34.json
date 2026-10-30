@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "34",
+  "name": "innovate",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "innovate",
+      "name": "innovate-6.4.0",
+      "key": "Readme/34/linux/innovate-6.4.0",
+      "version": "6.4.0",
+      "size": 20815724,
+      "sha256": "971128277e9b9ce37a48451fff01cde04b54a68b39c0108351bb289d35d6363f"
+    },
+    {
+      "platform": "linux",
+      "appId": "innovate",
+      "name": "innovate-6.4.1",
+      "key": "Readme/34/linux/innovate-6.4.1",
+      "version": "6.4.1",
+      "size": 23525228,
+      "sha256": "8fda29bc8493428ab74f13095a30974d67c634102e4d1023a5b12c6cf1ec7e5d"
+    },
+    {
+      "platform": "windows",
+      "appId": "innovate",
+      "name": "innovate-6.4.0.exe",
+      "key": "Readme/34/windows/innovate-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20246016,
+      "sha256": "06e2c3a6bdc1468b69b54b105b0482da2e55f5e4aae96b79fbe2ad50a3f41f8b"
+    },
+    {
+      "platform": "windows",
+      "appId": "innovate",
+      "name": "innovate-6.4.1.exe",
+      "key": "Readme/34/windows/innovate-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22935552,
+      "sha256": "4270d33c3fe5994d50d3b2b254f52187a5cb535b938b76ad34d7bd6e65d4f82d"
+    }
+  ]
+}

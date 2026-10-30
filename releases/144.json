@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "144",
+  "name": "shihezi",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "shihezi",
+      "name": "shihezi-6.4.0",
+      "key": "Readme/144/linux/shihezi-6.4.0",
+      "version": "6.4.0",
+      "size": 23427688,
+      "sha256": "a11dc52953ae6da6e055bb51f0e95a32ad40e11600d269a5c9e4288bf8bf0619"
+    },
+    {
+      "platform": "linux",
+      "appId": "shihezi",
+      "name": "shihezi-6.4.1",
+      "key": "Readme/144/linux/shihezi-6.4.1",
+      "version": "6.4.1",
+      "size": 23526740,
+      "sha256": "b07e45814a98136fa86fd1f12ace12fd0277aa66e5c2c2167a6f995a9f1bb61e"
+    },
+    {
+      "platform": "windows",
+      "appId": "shihezi",
+      "name": "shihezi-6.4.0.exe",
+      "key": "Readme/144/windows/shihezi-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 22855680,
+      "sha256": "ac4355d11aa08d9be6b87932cddee9cddd21d1108f0e6ccf58a30dcdaeca9140"
+    },
+    {
+      "platform": "windows",
+      "appId": "shihezi",
+      "name": "shihezi-6.4.1.exe",
+      "key": "Readme/144/windows/shihezi-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22936064,
+      "sha256": "40ceb8c31c4aab2d0b0afccf458e544e6b456d7ff8431b87c5d515bee3633d88"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "10",
+  "name": "sky9527",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "sky9527",
+      "name": "sky9527-6.4.0",
+      "key": "Readme/10/linux/sky9527-6.4.0",
+      "version": "6.4.0",
+      "size": 20826200,
+      "sha256": "4f6e4ef2ec6f9384ed06babf73e948fef46c53000529c8e74e0e4ee2a4d42567"
+    },
+    {
+      "platform": "linux",
+      "appId": "sky9527",
+      "name": "sky9527-6.4.1",
+      "key": "Readme/10/linux/sky9527-6.4.1",
+      "version": "6.4.1",
+      "size": 23538008,
+      "sha256": "d4d2345cea92860dd88f6d43854594a12588c55ae21dae550026e4fcb4e00fbc"
+    },
+    {
+      "platform": "windows",
+      "appId": "sky9527",
+      "name": "sky9527-6.4.0.exe",
+      "key": "Readme/10/windows/sky9527-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20256256,
+      "sha256": "2a02ecd0f8b392d8569f39e54288646c6e109b3b974b817b32fcd51590eae98c"
+    },
+    {
+      "platform": "windows",
+      "appId": "sky9527",
+      "name": "sky9527-6.4.1.exe",
+      "key": "Readme/10/windows/sky9527-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22946304,
+      "sha256": "efe826b0c564aece005e1bdca743e6caf3310f30eb098c443414fd6bc16b4bdf"
+    }
+  ]
+}

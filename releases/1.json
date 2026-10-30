@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "cid": "1",
+  "name": "cakesystem",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "cakesystem",
+      "name": "cakesystem-6.4.1",
+      "key": "Readme/1/linux/cakesystem-6.4.1",
+      "version": "6.4.1",
+      "size": 23705352,
+      "sha256": "d8a783aa610a5cb5a95ed597b004fc8708707435b77973919b380e40bb7c2112"
+    },
+    {
+      "platform": "windows",
+      "appId": "cakesystem",
+      "name": "cakesystem-6.4.1.exe",
+      "key": "Readme/1/windows/cakesystem-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 23115776,
+      "sha256": "d4d8d8ad37f9dadfc4ce59472ed871579cff5f45a5a4bb3f245d81aa17fcb194"
+    }
+  ]
+}

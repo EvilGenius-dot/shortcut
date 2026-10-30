@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "59",
+  "name": "ttminer",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "ttminer",
+      "name": "ttminer-6.4.0",
+      "key": "Readme/59/linux/ttminer-6.4.0",
+      "version": "6.4.0",
+      "size": 20815724,
+      "sha256": "72aa19260cbb905df8279acdfafc90bcaa8270a0873fe469e8abb669b87a26e2"
+    },
+    {
+      "platform": "linux",
+      "appId": "ttminer",
+      "name": "ttminer-6.4.1",
+      "key": "Readme/59/linux/ttminer-6.4.1",
+      "version": "6.4.1",
+      "size": 23524524,
+      "sha256": "3e31eafb88214fc3c5aa94d62d17a720239bd8193e1dcc130b1a3d2d3e29137a"
+    },
+    {
+      "platform": "windows",
+      "appId": "ttminer",
+      "name": "ttminer-6.4.0.exe",
+      "key": "Readme/59/windows/ttminer-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20246016,
+      "sha256": "5bca7bc3bea320908e2848f5d0dd28378a613a7b95505181e4a5c6879cf733b0"
+    },
+    {
+      "platform": "windows",
+      "appId": "ttminer",
+      "name": "ttminer-6.4.1.exe",
+      "key": "Readme/59/windows/ttminer-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22935040,
+      "sha256": "c5832b1cffc985740d1e37e2cac99e656815909ff0968423085351f3464bed9a"
+    }
+  ]
+}

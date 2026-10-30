@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "cid": "76",
+  "name": "btf",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "btf",
+      "name": "btf-6.4.1",
+      "key": "Readme/76/linux/btf-6.4.1",
+      "version": "6.4.1",
+      "size": 23525360,
+      "sha256": "19ffaac5e319a917da39a8950c4d7c4d9693b9beae785298dbc57303c408b09e"
+    },
+    {
+      "platform": "windows",
+      "appId": "btf",
+      "name": "btf-6.4.1.exe",
+      "key": "Readme/76/windows/btf-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22936064,
+      "sha256": "3b51df684f78d6b46ef75ef4844e252325b3bcf599fa1c8c64c180580d1d3222"
+    }
+  ]
+}

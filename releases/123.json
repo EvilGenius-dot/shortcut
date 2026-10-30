@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "123",
+  "name": "dlfz",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "dlfz",
+      "name": "dlfz-6.4.0",
+      "key": "Readme/123/linux/dlfz-6.4.0",
+      "version": "6.4.0",
+      "size": 20815740,
+      "sha256": "045d0a844a33960c9452c9fad0df6874d9c99fc4d5b4bae2a4434d25547f8525"
+    },
+    {
+      "platform": "linux",
+      "appId": "dlfz",
+      "name": "dlfz-6.4.1",
+      "key": "Readme/123/linux/dlfz-6.4.1",
+      "version": "6.4.1",
+      "size": 23524348,
+      "sha256": "924937daa40ae22dfab3141f8f75bd6c6beb0665dc1eb91587b23b3a9652d39e"
+    },
+    {
+      "platform": "windows",
+      "appId": "dlfz",
+      "name": "dlfz-6.4.0.exe",
+      "key": "Readme/123/windows/dlfz-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20246016,
+      "sha256": "63aec07944263b8927e1476fc2c2e454d4a8efe4e514ec8e66cb4f56423ed30d"
+    },
+    {
+      "platform": "windows",
+      "appId": "dlfz",
+      "name": "dlfz-6.4.1.exe",
+      "key": "Readme/123/windows/dlfz-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22935040,
+      "sha256": "f5ac461ec5ba61b0b99a34ce433783d29418bfee4be2925c921fea2cc6ac8cbb"
+    }
+  ]
+}

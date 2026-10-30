@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "21",
+  "name": "keliminer",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "keliminer",
+      "name": "keliminer-6.4.0",
+      "key": "Readme/21/linux/keliminer-6.4.0",
+      "version": "6.4.0",
+      "size": 20815732,
+      "sha256": "31bc8a1ab5cfd642fc7e61e0ce641f3bc021bd3ece3efac58a77a894a3e621d0"
+    },
+    {
+      "platform": "linux",
+      "appId": "keliminer",
+      "name": "keliminer-6.4.1",
+      "key": "Readme/21/linux/keliminer-6.4.1",
+      "version": "6.4.1",
+      "size": 23524532,
+      "sha256": "c956537087840de7dbbd8490bc0dcb8e721c1257aaec235d770285126a935f86"
+    },
+    {
+      "platform": "windows",
+      "appId": "keliminer",
+      "name": "keliminer-6.4.0.exe",
+      "key": "Readme/21/windows/keliminer-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20246016,
+      "sha256": "e70aad5db7f97a787b441d7301cf673f072018cd4dd7f821c7350ef379b1d4e0"
+    },
+    {
+      "platform": "windows",
+      "appId": "keliminer",
+      "name": "keliminer-6.4.1.exe",
+      "key": "Readme/21/windows/keliminer-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22935040,
+      "sha256": "abbf7facda9e80cc65008068138b36c15b41c20feb170c3df7ea86a7a2b35768"
+    }
+  ]
+}

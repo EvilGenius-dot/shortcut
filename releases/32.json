@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "32",
+  "name": "mfminer",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "mfminer",
+      "name": "mfminer-6.4.0",
+      "key": "Readme/32/linux/mfminer-6.4.0",
+      "version": "6.4.0",
+      "size": 20817588,
+      "sha256": "1aab61e7d25585ba3ac201892cc65e4da9d5e595650666da971697966b9b9157"
+    },
+    {
+      "platform": "linux",
+      "appId": "mfminer",
+      "name": "mfminer-6.4.1",
+      "key": "Readme/32/linux/mfminer-6.4.1",
+      "version": "6.4.1",
+      "size": 23526420,
+      "sha256": "594f3b7a9ca5aef9e16f00b95334ebd2bcba66b0557e8f941c7e902aa162a2bf"
+    },
+    {
+      "platform": "windows",
+      "appId": "mfminer",
+      "name": "mfminer-6.4.0.exe",
+      "key": "Readme/32/windows/mfminer-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20247552,
+      "sha256": "7339b3690f92667e3629b35216c4a03404e733b0acbd5cfcd6e7998841671e28"
+    },
+    {
+      "platform": "windows",
+      "appId": "mfminer",
+      "name": "mfminer-6.4.1.exe",
+      "key": "Readme/32/windows/mfminer-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22936576,
+      "sha256": "6165c0282add5ecffcf9fffe83dd573b5c36d03613efad48207adfb1d8a1958c"
+    }
+  ]
+}

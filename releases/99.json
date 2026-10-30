@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "cid": "99",
+  "name": "chryseos",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "chryseos",
+      "name": "chryseos-6.4.1",
+      "key": "Readme/99/linux/chryseos-6.4.1",
+      "version": "6.4.1",
+      "size": 23613860,
+      "sha256": "1dafff673d5b64e6337b556fd743543ae8814d146ed8ca07e8dd73ebb8d1e422"
+    },
+    {
+      "platform": "windows",
+      "appId": "chryseos",
+      "name": "chryseos-6.4.1.exe",
+      "key": "Readme/99/windows/chryseos-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 23024640,
+      "sha256": "3e62e0b373b5150db8f80bde9a1b5e7d16763bb131322e7aa57a7e0b604e8280"
+    }
+  ]
+}

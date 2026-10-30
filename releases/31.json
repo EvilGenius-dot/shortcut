@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "31",
+  "name": "ccminer",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "ccminer",
+      "name": "ccminer-6.4.0",
+      "key": "Readme/31/linux/ccminer-6.4.0",
+      "version": "6.4.0",
+      "size": 20815708,
+      "sha256": "f828934b30066f79c5b3519bad73fed636efa8dcd6e3408c89a684b4b3585634"
+    },
+    {
+      "platform": "linux",
+      "appId": "ccminer",
+      "name": "ccminer-6.4.1",
+      "key": "Readme/31/linux/ccminer-6.4.1",
+      "version": "6.4.1",
+      "size": 23524532,
+      "sha256": "b9a52c3f31d7704021f98ae4de1c7703f57dbd20ccaf146621282d1604de1903"
+    },
+    {
+      "platform": "windows",
+      "appId": "ccminer",
+      "name": "ccminer-6.4.0.exe",
+      "key": "Readme/31/windows/ccminer-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20245504,
+      "sha256": "d42cd2ad848a0889e4146bc94b7932e52347897cac20370eeb89df0e3c606c1a"
+    },
+    {
+      "platform": "windows",
+      "appId": "ccminer",
+      "name": "ccminer-6.4.1.exe",
+      "key": "Readme/31/windows/ccminer-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22935040,
+      "sha256": "4470f89bbbc1407572c933baf0083593d921ee31f3ead251926ca21c896a6235"
+    }
+  ]
+}

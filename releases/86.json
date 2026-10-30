@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "cid": "86",
+  "name": "yxminer",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "yxminer",
+      "name": "yxminer-6.4.1",
+      "key": "Readme/86/linux/yxminer-6.4.1",
+      "version": "6.4.1",
+      "size": 23524324,
+      "sha256": "2d01dbcb92f92ca7bc54679337fcf6107a08913f9398e3108cf8d67645cc0973"
+    },
+    {
+      "platform": "windows",
+      "appId": "yxminer",
+      "name": "yxminer-6.4.1.exe",
+      "key": "Readme/86/windows/yxminer-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22934528,
+      "sha256": "54f4df6f9bb4ac79b6f70349e89e66c8437620b3955b21cf4d4df3954dd067ba"
+    }
+  ]
+}

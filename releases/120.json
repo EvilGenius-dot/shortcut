@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "cid": "120",
+  "name": "iominer",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "iominer",
+      "name": "iominer-6.4.1",
+      "key": "Readme/120/linux/iominer-6.4.1",
+      "version": "6.4.1",
+      "size": 23976256,
+      "sha256": "56ffd4bd68d903ac8baeda56a5c8e8295eb0e7ed1077551c216eb87b8bc2c380"
+    },
+    {
+      "platform": "windows",
+      "appId": "iominer",
+      "name": "iominer-6.4.1.exe",
+      "key": "Readme/120/windows/iominer-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 23386624,
+      "sha256": "b660cb466174ca6ee3d8c768da00bca1f9c7987221fdb26cec6b9dc6735241c7"
+    }
+  ]
+}

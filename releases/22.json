@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "22",
+  "name": "shadowminer",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "shadowminer",
+      "name": "shadowminer-6.4.0",
+      "key": "Readme/22/linux/shadowminer-6.4.0",
+      "version": "6.4.0",
+      "size": 20815732,
+      "sha256": "102a7934a055b10e0e537014c5e41f4ad559bd5aa02c14fabc668cdbe4b4c3f6"
+    },
+    {
+      "platform": "linux",
+      "appId": "shadowminer",
+      "name": "shadowminer-6.4.1",
+      "key": "Readme/22/linux/shadowminer-6.4.1",
+      "version": "6.4.1",
+      "size": 23524580,
+      "sha256": "ea460071adc0093abedc262edc50da6fa4bda974c806978dfb51dd795ae37c74"
+    },
+    {
+      "platform": "windows",
+      "appId": "shadowminer",
+      "name": "shadowminer-6.4.0.exe",
+      "key": "Readme/22/windows/shadowminer-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20246016,
+      "sha256": "d9b1bc0bd8c9676aa8cf627b6cc37da01948b7ad7e19ffc5ad45161ad605174b"
+    },
+    {
+      "platform": "windows",
+      "appId": "shadowminer",
+      "name": "shadowminer-6.4.1.exe",
+      "key": "Readme/22/windows/shadowminer-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22935040,
+      "sha256": "0d07b3984a26dc710ec3923ed28ed75f5b019633487d2a6e19537b89e0876fcc"
+    }
+  ]
+}

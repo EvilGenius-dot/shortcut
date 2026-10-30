@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "85",
+  "name": "JTMiner",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "JTMiner",
+      "name": "JTMiner-6.4.0",
+      "key": "Readme/85/linux/JTMiner-6.4.0",
+      "version": "6.4.0",
+      "size": 20815700,
+      "sha256": "8c02ea3453731959190616fe6f0b06ee72de7548a5f4ce41f29df5ceeacc54bd"
+    },
+    {
+      "platform": "linux",
+      "appId": "JTMiner",
+      "name": "JTMiner-6.4.1",
+      "key": "Readme/85/linux/JTMiner-6.4.1",
+      "version": "6.4.1",
+      "size": 23524988,
+      "sha256": "42a8a7ce7befae60e2e71a6d8cd9244158c6f04efc112afa53310310b94cbed6"
+    },
+    {
+      "platform": "windows",
+      "appId": "JTMiner",
+      "name": "JTMiner-6.4.0.exe",
+      "key": "Readme/85/windows/JTMiner-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20246016,
+      "sha256": "3150dfe43011507449edd600c2f043ef955a0a908ab053d8ce63aa822a215c82"
+    },
+    {
+      "platform": "windows",
+      "appId": "JTMiner",
+      "name": "JTMiner-6.4.1.exe",
+      "key": "Readme/85/windows/JTMiner-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22935552,
+      "sha256": "08d04cc236832afc1b2b7d237a594f5f2652aae46c570719213506477e62c8ff"
+    }
+  ]
+}

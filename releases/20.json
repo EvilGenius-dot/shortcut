@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "20",
+  "name": "coinsystem",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "coinsystem",
+      "name": "coinsystem-6.4.0",
+      "key": "Readme/20/linux/coinsystem-6.4.0",
+      "version": "6.4.0",
+      "size": 20835388,
+      "sha256": "dc22db5293b84504a1255efeddab957edb1cbbbc044becc0d96a6f5c9f41c6ed"
+    },
+    {
+      "platform": "linux",
+      "appId": "coinsystem",
+      "name": "coinsystem-6.4.1",
+      "key": "Readme/20/linux/coinsystem-6.4.1",
+      "version": "6.4.1",
+      "size": 23546284,
+      "sha256": "1b5d71f56e6079658d5ee18bec42b9ccbebd2d63d298949ff88612a18f0e76e8"
+    },
+    {
+      "platform": "windows",
+      "appId": "coinsystem",
+      "name": "coinsystem-6.4.0.exe",
+      "key": "Readme/20/windows/coinsystem-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20265472,
+      "sha256": "e3c6402653f3f72b2c60033b084161468e17ba506dd9da9ad2072faddddf9db3"
+    },
+    {
+      "platform": "windows",
+      "appId": "coinsystem",
+      "name": "coinsystem-6.4.1.exe",
+      "key": "Readme/20/windows/coinsystem-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22956544,
+      "sha256": "a8076b31bdb61767e24c74ccd23bb98ec97cf707ab957013f8dbc3ecc1990b5d"
+    }
+  ]
+}

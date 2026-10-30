@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "54",
+  "name": "ttw3",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "ttw3",
+      "name": "ttw3-6.4.0",
+      "key": "Readme/54/linux/ttw3-6.4.0",
+      "version": "6.4.0",
+      "size": 20815716,
+      "sha256": "1b0e456a13c61a2cca3399ae6ca9176f3f03c1830683e3b302eeee27a2c03681"
+    },
+    {
+      "platform": "linux",
+      "appId": "ttw3",
+      "name": "ttw3-6.4.1",
+      "key": "Readme/54/linux/ttw3-6.4.1",
+      "version": "6.4.1",
+      "size": 23524916,
+      "sha256": "f530de67c6e8bf42be0757815fc28cab70a5fcc983cd0beebc82c339c7a567b3"
+    },
+    {
+      "platform": "windows",
+      "appId": "ttw3",
+      "name": "ttw3-6.4.0.exe",
+      "key": "Readme/54/windows/ttw3-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20246016,
+      "sha256": "11a8a8a32f9d41f0f75011c2cd5e65817cc4d274a633a8e4c8ce2181d1c019df"
+    },
+    {
+      "platform": "windows",
+      "appId": "ttw3",
+      "name": "ttw3-6.4.1.exe",
+      "key": "Readme/54/windows/ttw3-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22935040,
+      "sha256": "94462f332c2185e39e620ed9a93da7e0f207d259be9ed7a74869c4145d83898b"
+    }
+  ]
+}

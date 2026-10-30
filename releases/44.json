@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "cid": "44",
+  "name": "jtminer",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "jtminer",
+      "name": "jtminer-6.4.0",
+      "key": "Readme/44/linux/jtminer-6.4.0",
+      "version": "6.4.0",
+      "size": 20815732,
+      "sha256": "8ae9572e991b631e9060462f664b8438f89a90205676d33c3be9f60093c5f3ed"
+    },
+    {
+      "platform": "linux",
+      "appId": "jtminer",
+      "name": "jtminer-6.4.1",
+      "key": "Readme/44/linux/jtminer-6.4.1",
+      "version": "6.4.1",
+      "size": 23524316,
+      "sha256": "554203e85b8d6962eadb6bcf347d2a550c7292252d17933913e0d08c66c1a682"
+    },
+    {
+      "platform": "windows",
+      "appId": "jtminer",
+      "name": "jtminer-6.4.0.exe",
+      "key": "Readme/44/windows/jtminer-6.4.0.exe",
+      "version": "6.4.0",
+      "size": 20246016,
+      "sha256": "ac8e232377fb7abdb8262b75a343ad0925c753bffcd5fc0a2f81239d5aaa1f56"
+    },
+    {
+      "platform": "windows",
+      "appId": "jtminer",
+      "name": "jtminer-6.4.1.exe",
+      "key": "Readme/44/windows/jtminer-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22934528,
+      "sha256": "ad451cb15a114c73eb8e4a62ba00e3083de43874bc169bef0ed7309c5567d729"
+    }
+  ]
+}

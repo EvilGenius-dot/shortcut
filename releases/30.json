@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "cid": "30",
+  "name": "sdwl",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "sdwl",
+      "name": "sdwl-6.4.1",
+      "key": "Readme/30/linux/sdwl-6.4.1",
+      "version": "6.4.1",
+      "size": 23524332,
+      "sha256": "301153c35f6b5c7fac71c7760d9f25c4fd8e4393aa818cabdadfab256bd1293c"
+    },
+    {
+      "platform": "windows",
+      "appId": "sdwl",
+      "name": "sdwl-6.4.1.exe",
+      "key": "Readme/30/windows/sdwl-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22934528,
+      "sha256": "b65b838d5a3bbf71c4463a7b0983d4e19781555b1dc3a5a0b1faa6381fb82666"
+    }
+  ]
+}

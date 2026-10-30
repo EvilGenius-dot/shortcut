@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "cid": "55",
+  "name": "kuangshan",
+  "version": "6.4.1",
+  "publicBaseUrl": "https://shortcut.rustminersystem.com",
+  "files": [
+    {
+      "platform": "linux",
+      "appId": "kuangshan",
+      "name": "kuangshan-6.4.1",
+      "key": "Readme/55/linux/kuangshan-6.4.1",
+      "version": "6.4.1",
+      "size": 23524516,
+      "sha256": "dacd9eaaec9273c4b151eb43165222daf0d61af39ada00c7334114da42634968"
+    },
+    {
+      "platform": "windows",
+      "appId": "kuangshan",
+      "name": "kuangshan-6.4.1.exe",
+      "key": "Readme/55/windows/kuangshan-6.4.1.exe",
+      "version": "6.4.1",
+      "size": 22935040,
+      "sha256": "af77e0fa7b7fb0cb0fec04eef24d8bd94cec6af80898f6edfe9267f03e8479ea"
+    }
+  ]
+}
