@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "12",
   "name": "stminer",
-  "version": "6.4.1",
+  "version": "6.4.2",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "0a7d4b8cf82e639f559c4d32559fda7c2e3843e8f73b32dd90d026b56224bdd8"
     },
     {
+      "platform": "linux",
+      "appId": "stminer",
+      "name": "stminer-6.4.2",
+      "key": "Readme/12/linux/stminer-6.4.2",
+      "version": "6.4.2",
+      "size": 23608624,
+      "sha256": "64d80e106dfb1b412909f0c84a3d8fa3cea2623b12750897060becb3b2dd08eb"
+    },
+    {
       "platform": "windows",
       "appId": "stminer",
       "name": "stminer-6.4.0.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.1",
       "size": 22942720,
       "sha256": "9ec02146a9b5c4abb77e5ce28c3998c3fceff671e2d6409aedf5aa9e6a336d9c"
+    },
+    {
+      "platform": "windows",
+      "appId": "stminer",
+      "name": "stminer-6.4.2.exe",
+      "key": "Readme/12/windows/stminer-6.4.2.exe",
+      "version": "6.4.2",
+      "size": 23025664,
+      "sha256": "fe46bb68625aef15ce46dfebbc1b447af99028ceecb3e6004a37fb009459588f"
     }
   ]
 }

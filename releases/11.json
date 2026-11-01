@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "11",
   "name": "rustminer",
-  "version": "6.4.1",
+  "version": "6.4.2",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -15,6 +15,15 @@
       "sha256": "51e0ce8c8c28581ed0e3bc06ab21260c2264fe9e4a0f97df3d23e3e19fd220cd"
     },
     {
+      "platform": "linux",
+      "appId": "rustminer",
+      "name": "rustminer-6.4.2",
+      "key": "Readme/11/linux/rustminer-6.4.2",
+      "version": "6.4.2",
+      "size": 23613496,
+      "sha256": "be6bf5e8d62b426968a93dab5ecf3a904515be5e942c1c3c997e3ee31d6f6385"
+    },
+    {
       "platform": "windows",
       "appId": "rustminer",
       "name": "rustminer-6.4.1.exe",
@@ -22,6 +31,15 @@
       "version": "6.4.1",
       "size": 22946816,
       "sha256": "db655734bc468ef0cd76bbd9beb3a7db517a1532f96f4c763f4c671c88e31c3a"
+    },
+    {
+      "platform": "windows",
+      "appId": "rustminer",
+      "name": "rustminer-6.4.2.exe",
+      "key": "Readme/11/windows/rustminer-6.4.2.exe",
+      "version": "6.4.2",
+      "size": 23031296,
+      "sha256": "8939d81e5a5be2973b35e3361e12caf037e0904eb4c4617895420b1dd6d25a65"
     }
   ]
 }

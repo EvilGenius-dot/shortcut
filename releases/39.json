@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "39",
   "name": "haha",
-  "version": "6.4.1",
+  "version": "6.4.2",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "e295d15e12c58a1626384bd3c767caaf4f9fe887ab1e72a3d81c004c69456e8f"
     },
     {
+      "platform": "linux",
+      "appId": "haha",
+      "name": "haha-6.4.2",
+      "key": "Readme/39/linux/haha-6.4.2",
+      "version": "6.4.2",
+      "size": 23603336,
+      "sha256": "8e2f1cb71a689519f64fcd230caf3bd0189935ae9e70f8f426fb26153db8b817"
+    },
+    {
       "platform": "windows",
       "appId": "haha",
       "name": "haha-6.4.0.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.1",
       "size": 22934528,
       "sha256": "8bf5a26d334cffe4722a3dabc2380551ab731b7af2e16e3a76c93aea32a1449c"
+    },
+    {
+      "platform": "windows",
+      "appId": "haha",
+      "name": "haha-6.4.2.exe",
+      "key": "Readme/39/windows/haha-6.4.2.exe",
+      "version": "6.4.2",
+      "size": 23020544,
+      "sha256": "8ae6305756127875a21ca63ec95e0a62b0cf7885e105006d789b0e7d63c29165"
     }
   ]
 }

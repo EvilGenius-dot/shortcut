@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "6",
   "name": "haowa",
-  "version": "6.4.1",
+  "version": "6.4.2",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "8640a2f6d0b42d24aeb0f76b19f252b77d8b81548ebb985099abc25288bdb29a"
     },
     {
+      "platform": "linux",
+      "appId": "haowa",
+      "name": "haowa-6.4.2",
+      "key": "Readme/6/linux/haowa-6.4.2",
+      "version": "6.4.2",
+      "size": 23603688,
+      "sha256": "90f66858466a410ba2491f9c85c0e85df24f7e8bd269df18211c9535aa63f26d"
+    },
+    {
       "platform": "windows",
       "appId": "haowa",
       "name": "haowa-6.4.0.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.1",
       "size": 22935040,
       "sha256": "56c8d2f3db254a5065dbef22e3bb0f528e08710d334ffb0864e14573bc52e5b2"
+    },
+    {
+      "platform": "windows",
+      "appId": "haowa",
+      "name": "haowa-6.4.2.exe",
+      "key": "Readme/6/windows/haowa-6.4.2.exe",
+      "version": "6.4.2",
+      "size": 23020544,
+      "sha256": "753a94de849d38e5e97fc762133a067c9128797c3091435575bc83a92537272d"
     }
   ]
 }

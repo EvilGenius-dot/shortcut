@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "145",
   "name": "wemin",
-  "version": "6.4.1",
+  "version": "6.4.2",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -15,6 +15,15 @@
       "sha256": "ac1bd99895bf7e959d1d9182a087cf6a52823a9c4374616118a6135db300ebeb"
     },
     {
+      "platform": "linux",
+      "appId": "wemin",
+      "name": "wemin-6.4.2",
+      "key": "Readme/145/linux/wemin-6.4.2",
+      "version": "6.4.2",
+      "size": 23601480,
+      "sha256": "ddddb4982389a33249d6a24328dfcb3459541072dc606a6e555ce388eebed6f6"
+    },
+    {
       "platform": "windows",
       "appId": "wemin",
       "name": "wemin-6.4.1.exe",
@@ -22,6 +31,15 @@
       "version": "6.4.1",
       "size": 22934528,
       "sha256": "2100ee345b3b2f1c7d0c6132773c9d55b084b692d06e0e35475e4aa5c79900af"
+    },
+    {
+      "platform": "windows",
+      "appId": "wemin",
+      "name": "wemin-6.4.2.exe",
+      "key": "Readme/145/windows/wemin-6.4.2.exe",
+      "version": "6.4.2",
+      "size": 23018496,
+      "sha256": "ce86c945d0b1e53fc9e490b352832b5046fa29605710595c55d75adb42c748be"
     }
   ]
 }

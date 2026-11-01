@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "96",
   "name": "dai",
-  "version": "6.4.1",
+  "version": "6.4.2",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "a844fae294c0412837849cce8e99a1c30414b742ce998008743f7cdadf96dc1d"
     },
     {
+      "platform": "linux",
+      "appId": "dai",
+      "name": "dai-6.4.2",
+      "key": "Readme/96/linux/dai-6.4.2",
+      "version": "6.4.2",
+      "size": 23603120,
+      "sha256": "662c47bb864727dc27a07327dc78258dac6b63c808d3f034db0f6e89fcc13d9c"
+    },
+    {
       "platform": "windows",
       "appId": "dai",
       "name": "dai-6.4.0.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.1",
       "size": 22934528,
       "sha256": "6bd9c25df333cdfe8fec3123bdc1c337e3f7bb369dd1ea563a4f0dea066b2f40"
+    },
+    {
+      "platform": "windows",
+      "appId": "dai",
+      "name": "dai-6.4.2.exe",
+      "key": "Readme/96/windows/dai-6.4.2.exe",
+      "version": "6.4.2",
+      "size": 23020544,
+      "sha256": "27580f6bdeef8326203455831909c32bfc3f32a463a11ef19331478a8078210f"
     }
   ]
 }

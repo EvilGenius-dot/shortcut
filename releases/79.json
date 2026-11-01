@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "79",
   "name": "chengdu2",
-  "version": "6.4.1",
+  "version": "6.4.2",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "318192bc53fb2112a784b5b752b1368c10011d2fcc9c5a28e9b2283e7f88e126"
     },
     {
+      "platform": "linux",
+      "appId": "chengdu2",
+      "name": "chengdu2-6.4.2",
+      "key": "Readme/79/linux/chengdu2-6.4.2",
+      "version": "6.4.2",
+      "size": 23602536,
+      "sha256": "6e3c06163e1d0bc9e3dcca01b33fd4a1418154d414c11db2043baf9d4a5fe9d3"
+    },
+    {
       "platform": "windows",
       "appId": "chengdu2",
       "name": "chengdu2-6.4.0.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.1",
       "size": 22935552,
       "sha256": "c4875c04a50909446582afd2e8fa3b792ffa640b879c686017fe0467c308acaa"
+    },
+    {
+      "platform": "windows",
+      "appId": "chengdu2",
+      "name": "chengdu2-6.4.2.exe",
+      "key": "Readme/79/windows/chengdu2-6.4.2.exe",
+      "version": "6.4.2",
+      "size": 23019520,
+      "sha256": "40953833f122fdeefedfe31e4d0dd6de086ef0cd24c9809331b4cd92340079ef"
     }
   ]
 }

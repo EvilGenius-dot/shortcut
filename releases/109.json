@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "109",
   "name": "relay",
-  "version": "6.4.1",
+  "version": "6.4.2",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -15,6 +15,15 @@
       "sha256": "c9ae915c012fa9eebf40a8d29f1925ca215cd07bbf450ae27a95d96b67ef4c4d"
     },
     {
+      "platform": "linux",
+      "appId": "relay",
+      "name": "relay-6.4.2",
+      "key": "Readme/109/linux/relay-6.4.2",
+      "version": "6.4.2",
+      "size": 21404712,
+      "sha256": "78dc118b4dd9843ffb97b31494534549aa619af6917332058fb29b830794925c"
+    },
+    {
       "platform": "windows",
       "appId": "relay",
       "name": "relay-6.4.1.exe",
@@ -22,6 +31,15 @@
       "version": "6.4.1",
       "size": 20755968,
       "sha256": "0431bac9331b37640e64125a958e9c7657c9319e17c8feb91a2cd445b77ea6a8"
+    },
+    {
+      "platform": "windows",
+      "appId": "relay",
+      "name": "relay-6.4.2.exe",
+      "key": "Readme/109/windows/relay-6.4.2.exe",
+      "version": "6.4.2",
+      "size": 20836864,
+      "sha256": "b5db59b117bb42c3b126b56ddb0cd36cd759a84438d7e89afece37205a8c55f6"
     }
   ]
 }

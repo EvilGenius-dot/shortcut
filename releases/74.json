@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "74",
   "name": "garfield",
-  "version": "6.4.1",
+  "version": "6.4.2",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -15,6 +15,15 @@
       "sha256": "28dc62f25da56718c4c82688260f07633752b6cfffd96d9c0f99d1b7e21b1cd7"
     },
     {
+      "platform": "linux",
+      "appId": "garfield",
+      "name": "garfield-6.4.2",
+      "key": "Readme/74/linux/garfield-6.4.2",
+      "version": "6.4.2",
+      "size": 23601960,
+      "sha256": "4634827c4bb414a1bf4c1cfccec986d907014997fdbb6fa63587e6a2f10bf2a2"
+    },
+    {
       "platform": "windows",
       "appId": "garfield",
       "name": "garfield-6.4.1.exe",
@@ -22,6 +31,15 @@
       "version": "6.4.1",
       "size": 22934528,
       "sha256": "fec9b12be3996fad758ffb5d2c4c410c3e345f1df4a275ca32dc4e566ec6dcd2"
+    },
+    {
+      "platform": "windows",
+      "appId": "garfield",
+      "name": "garfield-6.4.2.exe",
+      "key": "Readme/74/windows/garfield-6.4.2.exe",
+      "version": "6.4.2",
+      "size": 23019008,
+      "sha256": "ee6a7dfd87252481d809140e934cbef2266f324691f63386ddb92e7a7ce01820"
     }
   ]
 }

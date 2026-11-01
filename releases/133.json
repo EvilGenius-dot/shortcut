@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "133",
   "name": "poolminersys",
-  "version": "6.4.1",
+  "version": "6.4.2",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "fb9600cace3036296333e7bf831609e4b50f2641bae1f9f0c5c1d4e318b90b7e"
     },
     {
+      "platform": "linux",
+      "appId": "poolminersys",
+      "name": "poolminersys-6.4.2",
+      "key": "Readme/133/linux/poolminersys-6.4.2",
+      "version": "6.4.2",
+      "size": 23603088,
+      "sha256": "52e9fedbb29e0388a113845db69bd2fbf3fba0f20752c081af6ac0167a35cce9"
+    },
+    {
       "platform": "windows",
       "appId": "poolminersys",
       "name": "poolminersys-6.4.0.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.1",
       "size": 22935552,
       "sha256": "fbf6e4e59129089f19ecf4b752aa96b9ed177d0ee6b0281f164c3d7f413a456d"
+    },
+    {
+      "platform": "windows",
+      "appId": "poolminersys",
+      "name": "poolminersys-6.4.2.exe",
+      "key": "Readme/133/windows/poolminersys-6.4.2.exe",
+      "version": "6.4.2",
+      "size": 23020544,
+      "sha256": "1c969d68c3c4251aa82ace5ea7f3a904db1a21037c360e0e4f95630416d91c6c"
     }
   ]
 }

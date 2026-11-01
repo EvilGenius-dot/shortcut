@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "83",
   "name": "MCMiner",
-  "version": "6.4.1",
+  "version": "6.4.2",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "49f8974dfddceabf797ff4714c729c22ff795d3bd212d516efeef1d3283659ed"
     },
     {
+      "platform": "linux",
+      "appId": "MCMiner",
+      "name": "MCMiner-6.4.2",
+      "key": "Readme/83/linux/MCMiner-6.4.2",
+      "version": "6.4.2",
+      "size": 23602256,
+      "sha256": "33bd126da52d9c3c8dd6a5cecb2918c79e038d65186fb8ef3cad8d6015a7ee57"
+    },
+    {
       "platform": "windows",
       "appId": "MCMiner",
       "name": "MCMiner-6.4.0.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.1",
       "size": 22935040,
       "sha256": "4ad1b093058c3329b690d08891da751c33436f7b0f1adc8a7026e20aa3b8dec3"
+    },
+    {
+      "platform": "windows",
+      "appId": "MCMiner",
+      "name": "MCMiner-6.4.2.exe",
+      "key": "Readme/83/windows/MCMiner-6.4.2.exe",
+      "version": "6.4.2",
+      "size": 23019520,
+      "sha256": "225b951aafa485097542a0411c1ee7c0065bb619dcfabdbf3ee6fc94da2400d0"
     }
   ]
 }

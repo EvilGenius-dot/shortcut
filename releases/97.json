@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "97",
   "name": "p2pool",
-  "version": "6.4.1",
+  "version": "6.4.2",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "14c2eb4df93e36a7d1141683057ed265ffbc0133ed8692a80b161551ce0ebcad"
     },
     {
+      "platform": "linux",
+      "appId": "p2pool",
+      "name": "p2pool-6.4.2",
+      "key": "Readme/97/linux/p2pool-6.4.2",
+      "version": "6.4.2",
+      "size": 23604008,
+      "sha256": "13047ff715e59e03fed4ee8013ab60be3f63f49bcfa4ad8fbc91846568d559bf"
+    },
+    {
       "platform": "windows",
       "appId": "p2pool",
       "name": "p2pool-6.4.0.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.1",
       "size": 22937088,
       "sha256": "c0c384f8dffc5474b49b682a1c2f464c9335b97cbcb7c10c3006c954ada186fc"
+    },
+    {
+      "platform": "windows",
+      "appId": "p2pool",
+      "name": "p2pool-6.4.2.exe",
+      "key": "Readme/97/windows/p2pool-6.4.2.exe",
+      "version": "6.4.2",
+      "size": 23021056,
+      "sha256": "36a6d1456c2398f5d79f7b78b974fa9d27f2f6d1e2098762b3539acd85c0368e"
     }
   ]
 }

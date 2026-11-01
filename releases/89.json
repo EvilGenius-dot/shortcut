@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "89",
   "name": "jaxson",
-  "version": "6.4.1",
+  "version": "6.4.2",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "4d2dae8c635a4e51ea94ae43ecf60389c2c86d6588b2d285cc0ac366dd2a053c"
     },
     {
+      "platform": "linux",
+      "appId": "jaxson",
+      "name": "jaxson-6.4.2",
+      "key": "Readme/89/linux/jaxson-6.4.2",
+      "version": "6.4.2",
+      "size": 23603104,
+      "sha256": "800988c354a7169641a054427515f8b78460755b69387327eae08ad9d463083b"
+    },
+    {
       "platform": "windows",
       "appId": "jaxson",
       "name": "jaxson-6.4.0.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.1",
       "size": 22934528,
       "sha256": "5adcaf5755ee651f9bc463cb300507e9f06c05e10e22b4bf7fbab0c0a3ebd15a"
+    },
+    {
+      "platform": "windows",
+      "appId": "jaxson",
+      "name": "jaxson-6.4.2.exe",
+      "key": "Readme/89/windows/jaxson-6.4.2.exe",
+      "version": "6.4.2",
+      "size": 23020544,
+      "sha256": "85af78efc8247a121ea38dcd4909da9122461f49a2b40211f10b53cbbf551424"
     }
   ]
 }

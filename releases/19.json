@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "19",
   "name": "trex",
-  "version": "6.4.1",
+  "version": "6.4.2",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "f5771ac1a228f4ec3863b1c9f996fcc8ad8a6d077dbc91d7dd15ab9315a5cdfb"
     },
     {
+      "platform": "linux",
+      "appId": "trex",
+      "name": "trex-6.4.2",
+      "key": "Readme/19/linux/trex-6.4.2",
+      "version": "6.4.2",
+      "size": 23602568,
+      "sha256": "9bc92120eb1665289afc8f64bfa594d90c4867952a9c7dca16f36ad5102c6736"
+    },
+    {
       "platform": "windows",
       "appId": "trex",
       "name": "trex-6.4.0.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.1",
       "size": 22936576,
       "sha256": "05ff6d77c51d244efa2cb12f159bd5f9996a178c04ac321aeb5af68849ebafa1"
+    },
+    {
+      "platform": "windows",
+      "appId": "trex",
+      "name": "trex-6.4.2.exe",
+      "key": "Readme/19/windows/trex-6.4.2.exe",
+      "version": "6.4.2",
+      "size": 23020032,
+      "sha256": "477590231150c93940a9b7687ab7a8ea8299a991f299e363131900cf8c202457"
     }
   ]
 }
