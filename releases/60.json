@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "60",
   "name": "lkminer",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "7a2c01a7e9d8b3a745d738a5a25ebc7ae4a4d09837eea8aa8bbbd68f5c689453"
     },
     {
+      "platform": "linux",
+      "appId": "lkminer",
+      "name": "lkminer-6.4.3",
+      "key": "Readme/60/linux/lkminer-6.4.3",
+      "version": "6.4.3",
+      "size": 23714880,
+      "sha256": "e7016a39392488f7f8cbdfec1d736496a97e508ef77b12a85e946d0ff4153d75"
+    },
+    {
       "platform": "windows",
       "appId": "lkminer",
       "name": "lkminer-6.4.0.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.2",
       "size": 23020032,
       "sha256": "0ce35abdb6cd42ae4938b52bb761aea62864c78c42edbc01028b2dee03d4f3c9"
+    },
+    {
+      "platform": "windows",
+      "appId": "lkminer",
+      "name": "lkminer-6.4.3.exe",
+      "key": "Readme/60/windows/lkminer-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23124992,
+      "sha256": "72b0e3533c1732678e1d3e71c09ca1a892fb0da096e2d9d4aac3bd6efc0d344b"
     }
   ]
 }

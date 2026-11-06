@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "137",
   "name": "tcminer3",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "03b0a144757503198f87f0d994d3ce409dcb887f0e3528835110590c59080d4e"
     },
     {
+      "platform": "linux",
+      "appId": "tcminer3",
+      "name": "tcminer3-6.4.3",
+      "key": "Readme/137/linux/tcminer3-6.4.3",
+      "version": "6.4.3",
+      "size": 23752568,
+      "sha256": "4f3d2747f6a00c5822c8b8ed605c721bd5722901f7da3c2d9494b9069fd72126"
+    },
+    {
       "platform": "windows",
       "appId": "tcminer3",
       "name": "tcminer3-6.4.1.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.2",
       "size": 23058432,
       "sha256": "6a752dd68f80458d8e5c4e3199f4f75c819df5cca1aebfdd8085ba66918301bd"
+    },
+    {
+      "platform": "windows",
+      "appId": "tcminer3",
+      "name": "tcminer3-6.4.3.exe",
+      "key": "Readme/137/windows/tcminer3-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23162368,
+      "sha256": "3aed1163e8d7af088f005cc1d70034a521f3eff83cb1f1cfd9b2d8e30d69db15"
     }
   ]
 }

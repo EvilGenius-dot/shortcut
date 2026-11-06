@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "8",
   "name": "xxkg",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "b8f390f0755f62f3b55e46ef498e01cfa721fcad95fadec0ecc1ec37838332d7"
     },
     {
+      "platform": "linux",
+      "appId": "xxkg",
+      "name": "xxkg-6.4.3",
+      "key": "Readme/8/linux/xxkg-6.4.3",
+      "version": "6.4.3",
+      "size": 24058060,
+      "sha256": "7de54cf3e9d4b070ca574822e46012566abb05c63f548bf1802b589d63a82222"
+    },
+    {
       "platform": "windows",
       "appId": "xxkg",
       "name": "xxkg-6.4.0.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.2",
       "size": 23364096,
       "sha256": "f9d953677fea34382545cca93f1b48171db20f72c7d417d6dfdbbcb952e68ff3"
+    },
+    {
+      "platform": "windows",
+      "appId": "xxkg",
+      "name": "xxkg-6.4.3.exe",
+      "key": "Readme/8/windows/xxkg-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23468032,
+      "sha256": "425910bcd8349ac1398ac2f7b69f48cce6c4259d5079ba8fed5c26244cb027ef"
     }
   ]
 }

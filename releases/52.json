@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "52",
   "name": "ttw1",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "fc525e05d0f6ba29a4274cb9d40ed86e495ef98f1294779d7618700ed7227ae3"
     },
     {
+      "platform": "linux",
+      "appId": "ttw1",
+      "name": "ttw1-6.4.3",
+      "key": "Readme/52/linux/ttw1-6.4.3",
+      "version": "6.4.3",
+      "size": 23714800,
+      "sha256": "9716640e3dbe71198ecab0c6255fb74ebf05aad528bbef99870b0566e058db4b"
+    },
+    {
       "platform": "windows",
       "appId": "ttw1",
       "name": "ttw1-6.4.0.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.2",
       "size": 23020544,
       "sha256": "f9abf0074c9dab721d0cd410a2b15e2fe7856488519ffd75f4bb153df6ea5d36"
+    },
+    {
+      "platform": "windows",
+      "appId": "ttw1",
+      "name": "ttw1-6.4.3.exe",
+      "key": "Readme/52/windows/ttw1-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23124992,
+      "sha256": "3e8425dc0a01bd6d8068437e1760abb4511c06924770f74146b971b53d5e0d6d"
     }
   ]
 }

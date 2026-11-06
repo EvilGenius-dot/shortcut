@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "9",
   "name": "hhminer",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "985f18b1b0a71215f17a2bc5cc1faa4eea509d37f6e6516417927e3b0e8cfa2d"
     },
     {
+      "platform": "linux",
+      "appId": "hhminer",
+      "name": "hhminer-6.4.3",
+      "key": "Readme/9/linux/hhminer-6.4.3",
+      "version": "6.4.3",
+      "size": 23714024,
+      "sha256": "3d353ee4fec24d2a6319a4e82f449ef0492bb54c06dee8c925a66d243badd290"
+    },
+    {
       "platform": "windows",
       "appId": "hhminer",
       "name": "hhminer-6.4.0.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.2",
       "size": 23020032,
       "sha256": "eabfd57cf815d0320b270bdb301af4389e1e9e4197de8545db0b3487a67fed73"
+    },
+    {
+      "platform": "windows",
+      "appId": "hhminer",
+      "name": "hhminer-6.4.3.exe",
+      "key": "Readme/9/windows/hhminer-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23123968,
+      "sha256": "a1bf0677e3d0eb8aa9de4e2d65013c9646a32aa5df193f4a6c0aaf71bb41731c"
     }
   ]
 }

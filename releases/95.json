@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "95",
   "name": "robot",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "d6e33dfac84e84643c7e710b74377424c8481507d0a1499272c20976024d87a2"
     },
     {
+      "platform": "linux",
+      "appId": "robot",
+      "name": "robot-6.4.3",
+      "key": "Readme/95/linux/robot-6.4.3",
+      "version": "6.4.3",
+      "size": 23714920,
+      "sha256": "4aef4f7bf6377937c28e65315ad2e2e6e76baf5c3b0574abd280d5806eac2bd6"
+    },
+    {
       "platform": "windows",
       "appId": "robot",
       "name": "robot-6.4.1.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.2",
       "size": 23020032,
       "sha256": "177a3372ced02fa56069715daafb5f1b096a44c85c902d4c0247509e871a48cd"
+    },
+    {
+      "platform": "windows",
+      "appId": "robot",
+      "name": "robot-6.4.3.exe",
+      "key": "Readme/95/windows/robot-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23124992,
+      "sha256": "78ea496bc50282894aaa4b72e8d4de99bd4479a2250ad971842e9f821c4481fc"
     }
   ]
 }

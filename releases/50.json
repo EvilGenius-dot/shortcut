@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "50",
   "name": "aibb",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "f0c4fad2a6e2f810abb5bf32c6127b16e6237aa7727c55d73f2b078e8556758f"
     },
     {
+      "platform": "linux",
+      "appId": "aibb",
+      "name": "aibb-6.4.3",
+      "key": "Readme/50/linux/aibb-6.4.3",
+      "version": "6.4.3",
+      "size": 23713424,
+      "sha256": "1fcd834a63f5147eaefd1403102fd4dfabce4f737baa2b46e4e969ac1962a203"
+    },
+    {
       "platform": "windows",
       "appId": "aibb",
       "name": "aibb-6.4.0.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.2",
       "size": 23019520,
       "sha256": "a952708b6fadcb00d34bb59d875f997cb867fb1b079f5922028e169cd0fd7daa"
+    },
+    {
+      "platform": "windows",
+      "appId": "aibb",
+      "name": "aibb-6.4.3.exe",
+      "key": "Readme/50/windows/aibb-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23123456,
+      "sha256": "2a717e3498890160e51a9124ed40f5e714deeaf1ecdbea47fb6b6f24d9c27b39"
     }
   ]
 }

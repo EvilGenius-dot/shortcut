@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "142",
   "name": "CipherRelay",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "ca30bfdf9db3f19de9dad74bc46c442b6a6e3b878292a3f2f801a4dcca8cec81"
     },
     {
+      "platform": "linux",
+      "appId": "CipherRelay",
+      "name": "CipherRelay-6.4.3",
+      "key": "Readme/142/linux/CipherRelay-6.4.3",
+      "version": "6.4.3",
+      "size": 23714080,
+      "sha256": "8267715751041ac2f5bde4246099631b5e320657cf8410fa1c57c91bddef4f0a"
+    },
+    {
       "platform": "windows",
       "appId": "CipherRelay",
       "name": "CipherRelay-6.4.0.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.2",
       "size": 23021056,
       "sha256": "87bea74f8629c50c7975165d72a25fb050d1c417873d33be052828371725fabd"
+    },
+    {
+      "platform": "windows",
+      "appId": "CipherRelay",
+      "name": "CipherRelay-6.4.3.exe",
+      "key": "Readme/142/windows/CipherRelay-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23123968,
+      "sha256": "992e1f70d9b802aad67e281d30018dc739407aaf0d4da8a2cf906726d8e17041"
     }
   ]
 }

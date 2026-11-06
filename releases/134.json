@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "134",
   "name": "yanan",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "36919208cf9a599ef7c8e7e32c455064126dc544e3d99ee08573c5f83dec8bcb"
     },
     {
+      "platform": "linux",
+      "appId": "yanan",
+      "name": "yanan-6.4.3",
+      "key": "Readme/134/linux/yanan-6.4.3",
+      "version": "6.4.3",
+      "size": 23715104,
+      "sha256": "98c193621da03c3d6ab4b0fed5a9a912db2d7eb16673ab11c14ca3a42d0dfa92"
+    },
+    {
       "platform": "windows",
       "appId": "yanan",
       "name": "yanan-6.4.0.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.2",
       "size": 23019520,
       "sha256": "0d20f97ba8ed311bc8d0f56bf9415a5191434aea00604338a517ae63d3a8e2a9"
+    },
+    {
+      "platform": "windows",
+      "appId": "yanan",
+      "name": "yanan-6.4.3.exe",
+      "key": "Readme/134/windows/yanan-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23124992,
+      "sha256": "1829fe4ff6034f26454ac1c9e1e67be2194aeb6720a279273a892f2584a6d31c"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "25",
   "name": "shikongyu",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "b45d2f8df6c60f07f6af8cc554fffe870fc597c5cdd3d185d250e5d9aa54bff8"
     },
     {
+      "platform": "linux",
+      "appId": "shikongyu",
+      "name": "shikongyu-6.4.3",
+      "key": "Readme/25/linux/shikongyu-6.4.3",
+      "version": "6.4.3",
+      "size": 23714600,
+      "sha256": "b23b4f310cfaccafba115213e6b3221cfadcac1a73e74ff5e2f45e9857b320dd"
+    },
+    {
       "platform": "windows",
       "appId": "shikongyu",
       "name": "shikongyu-6.4.0.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.2",
       "size": 23021568,
       "sha256": "43efdf9cc3f26fbc7f5eb56b3df6d64db3adca26dba8ff71dd7b389bdbcf819d"
+    },
+    {
+      "platform": "windows",
+      "appId": "shikongyu",
+      "name": "shikongyu-6.4.3.exe",
+      "key": "Readme/25/windows/shikongyu-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23124992,
+      "sha256": "944a973df41660231b938f03fee097d7e04e05c8d2b3253410ae8c95f4e2112d"
     }
   ]
 }

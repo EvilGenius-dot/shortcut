@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "5",
   "name": "dfc",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "0974e1bec2189e958a82a6535df6654ee615eaec50d0d2993ea0f782cab36208"
     },
     {
+      "platform": "linux",
+      "appId": "dfc",
+      "name": "dfc-6.4.3",
+      "key": "Readme/5/linux/dfc-6.4.3",
+      "version": "6.4.3",
+      "size": 23715672,
+      "sha256": "f69d6dc9dd9c92117b0bfc0c275cb90c91b56d784d390369af1c4090fc320ebf"
+    },
+    {
       "platform": "windows",
       "appId": "dfc",
       "name": "dfc-6.4.0.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.2",
       "size": 23021056,
       "sha256": "9ed2fda8f2055fa3c2939f2955e71c6cb1eb2848b7c11dbffeb546480a36b1eb"
+    },
+    {
+      "platform": "windows",
+      "appId": "dfc",
+      "name": "dfc-6.4.3.exe",
+      "key": "Readme/5/windows/dfc-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23125504,
+      "sha256": "c75e5fda0c5d52d3f7b9dca868c3eed1fb0afe0e64bd0d613cd5949d2fecd2ac"
     }
   ]
 }

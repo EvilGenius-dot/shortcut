@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "28",
   "name": "clminer",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "8ebbf5a5f164c82dd27a9ed544f5b9077a6e936926a382882ecf8bb2cd89a33b"
     },
     {
+      "platform": "linux",
+      "appId": "clminer",
+      "name": "clminer-6.4.3",
+      "key": "Readme/28/linux/clminer-6.4.3",
+      "version": "6.4.3",
+      "size": 23714552,
+      "sha256": "28bb8da1ac5e706f5a9e80765c06259afbcc374629c15ffd999afee06965447b"
+    },
+    {
       "platform": "windows",
       "appId": "clminer",
       "name": "clminer-6.4.0.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.2",
       "size": 23019520,
       "sha256": "4ea81c31c5fc866ba055518260335ff24e5203de35502430dbd70ea742424698"
+    },
+    {
+      "platform": "windows",
+      "appId": "clminer",
+      "name": "clminer-6.4.3.exe",
+      "key": "Readme/28/windows/clminer-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23124480,
+      "sha256": "4d3b11daffd5452bf3b8813b4b90c46be8bc659281f10be520c3f0bce57fc3a0"
     }
   ]
 }

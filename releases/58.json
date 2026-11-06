@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "58",
   "name": "tietouwa",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "9abf87069a1138524163e90efb300be32d7069fe06f4fede28068f0f0ddc2e39"
     },
     {
+      "platform": "linux",
+      "appId": "tietouwa",
+      "name": "tietouwa-6.4.3",
+      "key": "Readme/58/linux/tietouwa-6.4.3",
+      "version": "6.4.3",
+      "size": 23713848,
+      "sha256": "cc42a3f52044605c16c7ed1a7af39767558712e9ffbbcbe14e7e5376c36c042d"
+    },
+    {
       "platform": "windows",
       "appId": "tietouwa",
       "name": "tietouwa-6.4.1.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.2",
       "size": 23020544,
       "sha256": "f2415924026bb4ae5626b9e12348280d5e9b5e9ce956ac6062115a6a06a77457"
+    },
+    {
+      "platform": "windows",
+      "appId": "tietouwa",
+      "name": "tietouwa-6.4.3.exe",
+      "key": "Readme/58/windows/tietouwa-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23123968,
+      "sha256": "5eff2aff53645b4e2c32e876286cf32fc0e5752728e1698c3122fb63a148a88a"
     }
   ]
 }

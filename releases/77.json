@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "77",
   "name": "miner",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "bbaa940f372ed3b1cd6397a74c946f630206638b59ff436ec18df6724f966e6a"
     },
     {
+      "platform": "linux",
+      "appId": "miner",
+      "name": "miner-6.4.3",
+      "key": "Readme/77/linux/miner-6.4.3",
+      "version": "6.4.3",
+      "size": 23743356,
+      "sha256": "3fe2b510412e431b5a1f734bbc1d8f56c0ed041de20480ac600bcb8a28d3f6d8"
+    },
+    {
       "platform": "windows",
       "appId": "miner",
       "name": "miner-6.4.1.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.2",
       "size": 23050240,
       "sha256": "5d799f39b797cbb2867cda7c2ef0827ddd5d080b65f8ef9614f886a8eb6ea5c9"
+    },
+    {
+      "platform": "windows",
+      "appId": "miner",
+      "name": "miner-6.4.3.exe",
+      "key": "Readme/77/windows/miner-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23153664,
+      "sha256": "3a20b82c9ea2fac936dfb040df460c9160640b10ed283ce3b9e32501c386f72d"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "66",
   "name": "bitcoin",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "78ec6a0b5ce24fdd4df3edaf38a9b44f4006ed5f09881a8e21b3087451d6f63a"
     },
     {
+      "platform": "linux",
+      "appId": "bitcoin",
+      "name": "bitcoin-6.4.3",
+      "key": "Readme/66/linux/bitcoin-6.4.3",
+      "version": "6.4.3",
+      "size": 27592696,
+      "sha256": "8eca48af9b2715b2539f759122153e48b7827a7be1208c0226342b011c9e6c61"
+    },
+    {
       "platform": "windows",
       "appId": "bitcoin",
       "name": "bitcoin-6.4.0.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.2",
       "size": 26898432,
       "sha256": "a96df30268907691030248c7c9dcb6611ae5223839b04947a7735469106ebf8b"
+    },
+    {
+      "platform": "windows",
+      "appId": "bitcoin",
+      "name": "bitcoin-6.4.3.exe",
+      "key": "Readme/66/windows/bitcoin-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 27002880,
+      "sha256": "9833968dc9b479c611fc3a90e52fd1b365389d5d01d4e3a90874f74ab9f0c33a"
     }
   ]
 }

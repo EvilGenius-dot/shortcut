@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "45",
   "name": "minerhome",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "467e3e6f188ba48de617028c77993c60f4b1603f732b3aa61141745c6ed2d04e"
     },
     {
+      "platform": "linux",
+      "appId": "minerhome",
+      "name": "minerhome-6.4.3",
+      "key": "Readme/45/linux/minerhome-6.4.3",
+      "version": "6.4.3",
+      "size": 23714512,
+      "sha256": "5449485c8f8723e3f004594fc368d8ecf0e28516132be7c9e4c4766512c4ae33"
+    },
+    {
       "platform": "windows",
       "appId": "minerhome",
       "name": "minerhome-6.4.0.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.2",
       "size": 23019520,
       "sha256": "5818193edb30d6d52386fe492ab673fccdec3de69f2bf535e00824ff884f869a"
+    },
+    {
+      "platform": "windows",
+      "appId": "minerhome",
+      "name": "minerhome-6.4.3.exe",
+      "key": "Readme/45/windows/minerhome-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23124480,
+      "sha256": "d6627333dd846b12a8bf6ef8ed4a6252cde01154bc2e9f24fc64adc418958efa"
     }
   ]
 }

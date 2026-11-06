@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "138",
   "name": "xxminer3",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "a6eca07ce70e70fdb6914f11c5e582ae8b1dbe2ec6f574c12499725446523e89"
     },
     {
+      "platform": "linux",
+      "appId": "xxminer3",
+      "name": "xxminer3-6.4.3",
+      "key": "Readme/138/linux/xxminer3-6.4.3",
+      "version": "6.4.3",
+      "size": 21405084,
+      "sha256": "f230514e0e294826b287f8b1c3bbab7feda6ca3471eb20844fe18dbb8c1988c5"
+    },
+    {
       "platform": "windows",
       "appId": "xxminer3",
       "name": "xxminer3-6.4.1.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.2",
       "size": 20733952,
       "sha256": "359ae5c6d0ecc7ad00ca89c3258adb893530f15fe3db08197208cdd6a9e9513d"
+    },
+    {
+      "platform": "windows",
+      "appId": "xxminer3",
+      "name": "xxminer3-6.4.3.exe",
+      "key": "Readme/138/windows/xxminer3-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 20835328,
+      "sha256": "7ed94e86c1bc4538c373799bf4aae5da50596a38273a9226db4ebff65c0b68e9"
     }
   ]
 }

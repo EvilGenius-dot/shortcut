@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "106",
   "name": "pminer",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "1d7656f7d7d2d5986ceb122d98b33fd69197ef4df9b88b751929914644e6796c"
     },
     {
+      "platform": "linux",
+      "appId": "pminer",
+      "name": "pminer-6.4.3",
+      "key": "Readme/106/linux/pminer-6.4.3",
+      "version": "6.4.3",
+      "size": 23711776,
+      "sha256": "f92911fe985c865178d797ac4b6d8b65c643cd5158b1eb768fa50f6885c9d119"
+    },
+    {
       "platform": "windows",
       "appId": "pminer",
       "name": "pminer-6.4.1.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.2",
       "size": 23018496,
       "sha256": "5f0dca58b1d78da02ed346caa6139d6a40514834cf7dfda05a1697158e030b70"
+    },
+    {
+      "platform": "windows",
+      "appId": "pminer",
+      "name": "pminer-6.4.3.exe",
+      "key": "Readme/106/windows/pminer-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23121408,
+      "sha256": "7dc180b99c00e818a5de001c24b52ce5e68f3cb7479f663360bd40a9054094f4"
     }
   ]
 }

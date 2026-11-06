@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "126",
   "name": "sparkss",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "a8f6f8ad9309f8994127c346f955564efd6de6d5c10aa2377a7af22d7f3454df"
     },
     {
+      "platform": "linux",
+      "appId": "sparkss",
+      "name": "sparkss-6.4.3",
+      "key": "Readme/126/linux/sparkss-6.4.3",
+      "version": "6.4.3",
+      "size": 23714080,
+      "sha256": "114152e40683762aa27814f96783eef6822937f62570d0a1c6ea18325d34c0d3"
+    },
+    {
       "platform": "windows",
       "appId": "sparkss",
       "name": "sparkss-6.4.0.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.2",
       "size": 23019520,
       "sha256": "7195a698b0964375f3d35e3e9c4689855f6c859f2bc17268a3def36072037e4d"
+    },
+    {
+      "platform": "windows",
+      "appId": "sparkss",
+      "name": "sparkss-6.4.3.exe",
+      "key": "Readme/126/windows/sparkss-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23123968,
+      "sha256": "3d2781371724a85538e4bc3ea26dbaed5e57bf084f491e0a692cf2c9673f5d5f"
     }
   ]
 }

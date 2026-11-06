@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "64",
   "name": "ntsmmm2",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -24,6 +24,15 @@
       "sha256": "933c6f2f75e66e3650ed89fa4bd4f62410243cdc16f1068c594bab4c9b795102"
     },
     {
+      "platform": "linux",
+      "appId": "ntsmmm2",
+      "name": "ntsmmm2-6.4.3",
+      "key": "Readme/64/linux/ntsmmm2-6.4.3",
+      "version": "6.4.3",
+      "size": 23755496,
+      "sha256": "f691750919af9b4e57d02b3a1c9d16e4577c7383352f4d6addc81aa4703f256f"
+    },
+    {
       "platform": "windows",
       "appId": "ntsmmm2",
       "name": "ntsmmm2-6.4.1.exe",
@@ -40,6 +49,15 @@
       "version": "6.4.2",
       "size": 23060992,
       "sha256": "45e8adf8a23c1d18685d70967582befb1b26faf24e18eca5725dd3a6b2b3d0db"
+    },
+    {
+      "platform": "windows",
+      "appId": "ntsmmm2",
+      "name": "ntsmmm2-6.4.3.exe",
+      "key": "Readme/64/windows/ntsmmm2-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23165440,
+      "sha256": "18d6414db05a482f62b57f6bdb97f127146ef255c82967236f296fe1bdae6102"
     }
   ]
 }

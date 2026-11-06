@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "37",
   "name": "ntminer",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "805284a0c4a3b1f5d2deaea7c8ab36a31534dccf6929c95054dbfd8bb79b5fb5"
     },
     {
+      "platform": "linux",
+      "appId": "ntminer",
+      "name": "ntminer-6.4.3",
+      "key": "Readme/37/linux/ntminer-6.4.3",
+      "version": "6.4.3",
+      "size": 23715044,
+      "sha256": "22b347bee2791af306e748672dc60aa072b51fc5a3e1b3eca65e3a301a0f04ee"
+    },
+    {
       "platform": "windows",
       "appId": "ntminer",
       "name": "ntminer-6.4.0.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.2",
       "size": 23020032,
       "sha256": "9ee34a85161369760bf5379e607a1e3986417173b00fd855db93bd874d5fe41f"
+    },
+    {
+      "platform": "windows",
+      "appId": "ntminer",
+      "name": "ntminer-6.4.3.exe",
+      "key": "Readme/37/windows/ntminer-6.4.3.exe",
+      "version": "6.4.3",
+      "size": 23124992,
+      "sha256": "fd843aa95f6bcd2e6dbded06ca89c4791c38266a6dde3c7af0ccafb38b81eb41"
     }
   ]
 }
