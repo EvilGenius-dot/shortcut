@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "84",
   "name": "XMiner",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "23de98570e38dbdb28489f27027f7735dceb0939013e97489670599a4f7b885f"
     },
     {
+      "platform": "linux",
+      "appId": "XMiner",
+      "name": "XMiner-6.4.5",
+      "key": "Readme/84/linux/XMiner-6.4.5",
+      "version": "6.4.5",
+      "size": 23699856,
+      "sha256": "e463070132979c53ae66cd05678a3a11892af970ea8052bc16175cc08aaa986b"
+    },
+    {
       "platform": "windows",
       "appId": "XMiner",
       "name": "XMiner-6.4.0.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.3",
       "size": 23123968,
       "sha256": "742b9ef35f58bcd74eae25599b58d32c25298b001c2d752094ba461ee60405c6"
+    },
+    {
+      "platform": "windows",
+      "appId": "XMiner",
+      "name": "XMiner-6.4.5.exe",
+      "key": "Readme/84/windows/XMiner-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23097344,
+      "sha256": "aee8114745ced10e4be57db3568f1b9b98b39f22926f179b0fa0253be1167504"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "131",
   "name": "dfzr",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "e7aba0e4c2c94a2fafab63a44bfc99642a3e26dc441895e6f8414c49d539995e"
     },
     {
+      "platform": "linux",
+      "appId": "dfzr",
+      "name": "dfzr-6.4.5",
+      "key": "Readme/131/linux/dfzr-6.4.5",
+      "version": "6.4.5",
+      "size": 23699760,
+      "sha256": "9e06d8b2d63401c8e5c5f62cd21911e12db7719fd11eb0f8a3f0eaafd754077e"
+    },
+    {
       "platform": "windows",
       "appId": "dfzr",
       "name": "dfzr-6.4.0.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.3",
       "size": 23123968,
       "sha256": "d5f33a445d13cd862f33fa653d58c5ac153a49b7968083748cb412c022bc8d2b"
+    },
+    {
+      "platform": "windows",
+      "appId": "dfzr",
+      "name": "dfzr-6.4.5.exe",
+      "key": "Readme/131/windows/dfzr-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23097344,
+      "sha256": "7e6b65166833b38ca456ac308957a860f06dde02490bad57bf48bfd9337714d8"
     }
   ]
 }

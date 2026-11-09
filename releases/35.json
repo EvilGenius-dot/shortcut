@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "35",
   "name": "xingyun",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "5f9caf43189d6215a518edde1c85f5ced9bc91c42d90371023420213efd032c3"
     },
     {
+      "platform": "linux",
+      "appId": "xingyun",
+      "name": "xingyun-6.4.5",
+      "key": "Readme/35/linux/xingyun-6.4.5",
+      "version": "6.4.5",
+      "size": 23703284,
+      "sha256": "c72133da13a8bd8ba8ffccac12a892fa3546e44c898a542f3cb6d2f128a2f616"
+    },
+    {
       "platform": "windows",
       "appId": "xingyun",
       "name": "xingyun-6.4.0.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.3",
       "size": 23127040,
       "sha256": "395c54dfb22753ebf940de60ca25c18fb9f4cdbe089aa049bccc1508fb926449"
+    },
+    {
+      "platform": "windows",
+      "appId": "xingyun",
+      "name": "xingyun-6.4.5.exe",
+      "key": "Readme/35/windows/xingyun-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23100416,
+      "sha256": "7327866e61611c371ac1b9fd66c074a5664a46b79c86c395fbc002d69ba236c9"
     }
   ]
 }

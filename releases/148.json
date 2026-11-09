@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "148",
   "name": "free",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "fdde278a60fa649d18f6e413372c6d1cf53b5b2979120209a920ed97d529ca64"
     },
     {
+      "platform": "linux",
+      "appId": "free",
+      "name": "free-6.4.5",
+      "key": "Readme/148/linux/free-6.4.5",
+      "version": "6.4.5",
+      "size": 23679620,
+      "sha256": "80d412c367c03118ae08d308af2e2ec952e9ac6780c670c0fafbbb9fd6a51c6f"
+    },
+    {
       "platform": "windows",
       "appId": "free",
       "name": "free-6.4.1.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.3",
       "size": 23100928,
       "sha256": "1843cf723b5b644fb8077842d8a6d627eb948b107f07924891032d44901885f2"
+    },
+    {
+      "platform": "windows",
+      "appId": "free",
+      "name": "free-6.4.5.exe",
+      "key": "Readme/148/windows/free-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23074304,
+      "sha256": "5341b485b7e7317b96f3ac074808366dea793de9359bc286219fb78514024fff"
     }
   ]
 }

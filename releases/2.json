@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "2",
   "name": "obminer",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "170bfdc4a234dca65aa7471956eec8a1aab8dfe07b54ab815409f319389f59e7"
     },
     {
+      "platform": "linux",
+      "appId": "obminer",
+      "name": "obminer-6.4.5",
+      "key": "Readme/2/linux/obminer-6.4.5",
+      "version": "6.4.5",
+      "size": 23700536,
+      "sha256": "40541ed6efea08163d54c05705e283ee751951e2adc9712474ec80359e9c2586"
+    },
+    {
       "platform": "windows",
       "appId": "obminer",
       "name": "obminer-6.4.0.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.3",
       "size": 23124992,
       "sha256": "8e55e6c9ec90c92244dc7fa9ae6cc6b3d929ad3e3681afd2a2bb7a1bc7ab7119"
+    },
+    {
+      "platform": "windows",
+      "appId": "obminer",
+      "name": "obminer-6.4.5.exe",
+      "key": "Readme/2/windows/obminer-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23097856,
+      "sha256": "2630af386e59ed579ab72fd3aad13f116b4de5f032acc60e8dcfc4f60782106e"
     }
   ]
 }

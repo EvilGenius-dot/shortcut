@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "3",
   "name": "vipor",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "c2334baa73c76df7c7a79d65d63d05a53c8b72dcd24f8543c084aef96c955325"
     },
     {
+      "platform": "linux",
+      "appId": "vipor",
+      "name": "vipor-6.4.5",
+      "key": "Readme/3/linux/vipor-6.4.5",
+      "version": "6.4.5",
+      "size": 23762356,
+      "sha256": "8f1a7c39544252e1876bd259bef173a3079cfbbb5605980c17406986a0cc1bae"
+    },
+    {
       "platform": "windows",
       "appId": "vipor",
       "name": "vipor-6.4.0.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.3",
       "size": 23186432,
       "sha256": "b84fcf3778010ea462bc2a8e885e00504826f49aa7ab9694e3a282cda1906ca8"
+    },
+    {
+      "platform": "windows",
+      "appId": "vipor",
+      "name": "vipor-6.4.5.exe",
+      "key": "Readme/3/windows/vipor-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23159808,
+      "sha256": "37322d319140b75ba6c6b131543ebdf51140a521a6f1967373a1d5bd0d4d9488"
     }
   ]
 }

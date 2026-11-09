@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "56",
   "name": "xxx2",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "ded198515937630084c98aacbb634bf753c51583763623cd363194ceb74a4ed1"
     },
     {
+      "platform": "linux",
+      "appId": "xxx2",
+      "name": "xxx2-6.4.5",
+      "key": "Readme/56/linux/xxx2-6.4.5",
+      "version": "6.4.5",
+      "size": 23699552,
+      "sha256": "ecea8b32d61c301a92511fbe776e2ca0eb097b5e2349bcbf9a66ffe90eb82944"
+    },
+    {
       "platform": "windows",
       "appId": "xxx2",
       "name": "xxx2-6.4.1.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.3",
       "size": 23123968,
       "sha256": "1ed012dd746afe7f28afcb11d8e55856270c6221b4eb3eba714056db531f7fda"
+    },
+    {
+      "platform": "windows",
+      "appId": "xxx2",
+      "name": "xxx2-6.4.5.exe",
+      "key": "Readme/56/windows/xxx2-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23096832,
+      "sha256": "0681dc11c1eb9dad81f7a393e5f3a8e1c904caaff96abc4926b7ac0afc4cfaa0"
     }
   ]
 }

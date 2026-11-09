@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "146",
   "name": "ldproxy",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "32abfd14c432f230fcefcad32821ddfd6d6b1b4f8e0d610795663237af7f1f97"
     },
     {
+      "platform": "linux",
+      "appId": "ldproxy",
+      "name": "ldproxy-6.4.5",
+      "key": "Readme/146/linux/ldproxy-6.4.5",
+      "version": "6.4.5",
+      "size": 23822368,
+      "sha256": "8ff09356fbfe9253a1b5d1b259e903210fe400568c95a81917f5c9a8ffe3453f"
+    },
+    {
       "platform": "windows",
       "appId": "ldproxy",
       "name": "ldproxy-6.4.0.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.3",
       "size": 23244288,
       "sha256": "edf5bf26c300813cc4016f6bda6f9a746a97e9171a7af47898c99172ea5deba2"
+    },
+    {
+      "platform": "windows",
+      "appId": "ldproxy",
+      "name": "ldproxy-6.4.5.exe",
+      "key": "Readme/146/windows/ldproxy-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23217664,
+      "sha256": "34e3a1afa5492ea4fd8a9371756949579e9f8c805932dfbb807aa22fb2a36ebf"
     }
   ]
 }

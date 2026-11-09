@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "14",
   "name": "gjlink",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "ceee15afec3a92cf302ea603cca99bc996a0c685e7d4770f48719fd20c61ab1b"
     },
     {
+      "platform": "linux",
+      "appId": "gjlink",
+      "name": "gjlink-6.4.5",
+      "key": "Readme/14/linux/gjlink-6.4.5",
+      "version": "6.4.5",
+      "size": 23700016,
+      "sha256": "df1bc7b483887f7cb3deb88469c195bb943e2b4b4a35b2fb168fc3634b26b8b5"
+    },
+    {
       "platform": "windows",
       "appId": "gjlink",
       "name": "gjlink-6.4.0.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.3",
       "size": 23123968,
       "sha256": "16864ff8558a1fc2ce242b26de50576a80895b9da7c8fb7e865afb3f860cb736"
+    },
+    {
+      "platform": "windows",
+      "appId": "gjlink",
+      "name": "gjlink-6.4.5.exe",
+      "key": "Readme/14/windows/gjlink-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23097344,
+      "sha256": "4d2fac69c4d528bea43c846bade2238b522c29ba30e5c5d3a9119316f52a4fc4"
     }
   ]
 }

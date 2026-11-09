@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "102",
   "name": "huaxinlc",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "d85fe7bae35a1af883e108799efdf9319dfa3d75136a55d2bf7ac8b68aa4f6c2"
     },
     {
+      "platform": "linux",
+      "appId": "huaxinlc",
+      "name": "huaxinlc-6.4.5",
+      "key": "Readme/102/linux/huaxinlc-6.4.5",
+      "version": "6.4.5",
+      "size": 23700456,
+      "sha256": "31a0ece85a8e0929abc01a124caba5f163d3b72fb4b9153c545f8d78890d5b84"
+    },
+    {
       "platform": "windows",
       "appId": "huaxinlc",
       "name": "huaxinlc-6.4.0.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.3",
       "size": 23124480,
       "sha256": "20108b89b9b3e9484795517437055517ef0f323686b105e490537ae08ad8c6e8"
+    },
+    {
+      "platform": "windows",
+      "appId": "huaxinlc",
+      "name": "huaxinlc-6.4.5.exe",
+      "key": "Readme/102/windows/huaxinlc-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23097856,
+      "sha256": "c860dd1c0ed4e4dc66e88d3459f5cdf10e8b12e1849e46e9f12db3ac257f98ec"
     }
   ]
 }

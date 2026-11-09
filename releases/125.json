@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "125",
   "name": "jiucaiminer",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "19691000c447f1f3abb6ae6a6e3654547615006f661d415a84c227ab729b24bb"
     },
     {
+      "platform": "linux",
+      "appId": "jiucaiminer",
+      "name": "jiucaiminer-6.4.5",
+      "key": "Readme/125/linux/jiucaiminer-6.4.5",
+      "version": "6.4.5",
+      "size": 24657228,
+      "sha256": "d4fe5f6b72279cc6e913df2c1e122ec1bc76b36af48251d1a3cb907837d57c14"
+    },
+    {
       "platform": "windows",
       "appId": "jiucaiminer",
       "name": "jiucaiminer-6.4.0.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.3",
       "size": 24081408,
       "sha256": "d6a6e47e420687d1bcb7e647d2da0a6159275c656eb2bdf558a05ebaba01819d"
+    },
+    {
+      "platform": "windows",
+      "appId": "jiucaiminer",
+      "name": "jiucaiminer-6.4.5.exe",
+      "key": "Readme/125/windows/jiucaiminer-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 24054272,
+      "sha256": "253c410ce9416e8f7ccb146e1e0ca3314b14246a60e9fddb12eac55d8c141961"
     }
   ]
 }

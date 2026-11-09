@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "149",
   "name": "sick",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -15,6 +15,15 @@
       "sha256": "0d8ae1bb123363a2174bef3bea85dc56cf28826bc20ec4053aad659a085d06ee"
     },
     {
+      "platform": "linux",
+      "appId": "sick",
+      "name": "sick-6.4.5",
+      "key": "Readme/149/linux/sick-6.4.5",
+      "version": "6.4.5",
+      "size": 24385332,
+      "sha256": "3886bf519e1166ac8065a6645c8a8be79a34256781673ea9fd4675bc3e9ac641"
+    },
+    {
       "platform": "windows",
       "appId": "sick",
       "name": "sick-6.4.3.exe",
@@ -22,6 +31,15 @@
       "version": "6.4.3",
       "size": 23807488,
       "sha256": "46910adb555952972b662adc43a3fa5b15ff763dd7cc3c748e4914c582e3ae68"
+    },
+    {
+      "platform": "windows",
+      "appId": "sick",
+      "name": "sick-6.4.5.exe",
+      "key": "Readme/149/windows/sick-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23780352,
+      "sha256": "676b09ae80f961da9e7a0e59fff8faf063fc9ce857176168a4ca572ae2515e2a"
     }
   ]
 }

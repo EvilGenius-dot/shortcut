@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "4",
   "name": "tcst",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "b14e5f5fb5e43df1e0aca839f55c4654672e012e8fe52719eee7fb474d570e2e"
     },
     {
+      "platform": "linux",
+      "appId": "tcst",
+      "name": "tcst-6.4.5",
+      "key": "Readme/4/linux/tcst-6.4.5",
+      "version": "6.4.5",
+      "size": 23734476,
+      "sha256": "e6f4b2a52b3859b3fe5bf575914c5709b8d66858d5480b21e54655cea3e2a995"
+    },
+    {
       "platform": "windows",
       "appId": "tcst",
       "name": "tcst-6.4.0.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.3",
       "size": 23158272,
       "sha256": "422f7830c0173f3ae40dd46ed2bee5e565f4532e439ba978b9883c77b9f6d87a"
+    },
+    {
+      "platform": "windows",
+      "appId": "tcst",
+      "name": "tcst-6.4.5.exe",
+      "key": "Readme/4/windows/tcst-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23131648,
+      "sha256": "ba5ca9f50f40dd91f51019390a46c7ccd2bebd2992de679ec6a1392246531d06"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "101",
   "name": "ggbtc",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "22c95ab352a8cdfb290c5ee0a333c5a077380880d5335610eb644e8da7b71f4f"
     },
     {
+      "platform": "linux",
+      "appId": "ggbtc",
+      "name": "ggbtc-6.4.5",
+      "key": "Readme/101/linux/ggbtc-6.4.5",
+      "version": "6.4.5",
+      "size": 23701640,
+      "sha256": "d86d635f6a1eca0d4d4b43846008c035ef5cc6ce150844cd5df716d0a07727b6"
+    },
+    {
       "platform": "windows",
       "appId": "ggbtc",
       "name": "ggbtc-6.4.1.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.3",
       "size": 23125504,
       "sha256": "823d20e738f9dc386787abb5be628b3c8a9b9d3b3cf9a59c30d474cbc0482cfe"
+    },
+    {
+      "platform": "windows",
+      "appId": "ggbtc",
+      "name": "ggbtc-6.4.5.exe",
+      "key": "Readme/101/windows/ggbtc-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23098880,
+      "sha256": "d680e1bb87104cf595487244f2b65fbee69c8631121491db58e7428ed6b7831e"
     }
   ]
 }

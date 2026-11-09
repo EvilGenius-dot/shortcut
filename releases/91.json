@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "91",
   "name": "minerproxy",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "62e68537525146e6ec262382fb89fb7c329100342ead1c91e25fefae1248de45"
     },
     {
+      "platform": "linux",
+      "appId": "minerproxy",
+      "name": "minerproxy-6.4.5",
+      "key": "Readme/91/linux/minerproxy-6.4.5",
+      "version": "6.4.5",
+      "size": 23699752,
+      "sha256": "642f212a0b0553dafacf10e3b3b90bd53c824c05521d108452920d0f43531786"
+    },
+    {
       "platform": "windows",
       "appId": "minerproxy",
       "name": "minerproxy-6.4.0.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.3",
       "size": 23123968,
       "sha256": "2f19d7410e3172b3b176745f54ef15c6c5cf5363544600d765763fc2582e33cd"
+    },
+    {
+      "platform": "windows",
+      "appId": "minerproxy",
+      "name": "minerproxy-6.4.5.exe",
+      "key": "Readme/91/windows/minerproxy-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23097344,
+      "sha256": "9c250a5e23735d818f32be180a1acd5b2608dcf7db40eb520ebf81fd9f062d27"
     }
   ]
 }

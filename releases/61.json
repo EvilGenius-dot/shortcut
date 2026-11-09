@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "61",
   "name": "zzminer",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "0726ac1b06586cb986db268f7ba4488150bb6d1292cbf1297c1abfb4c8fe95ac"
     },
     {
+      "platform": "linux",
+      "appId": "zzminer",
+      "name": "zzminer-6.4.5",
+      "key": "Readme/61/linux/zzminer-6.4.5",
+      "version": "6.4.5",
+      "size": 23702220,
+      "sha256": "1d62f847206d4483b416dd62a22ed5e3845bbbb55e7a8ae3e882e493f6053b93"
+    },
+    {
       "platform": "windows",
       "appId": "zzminer",
       "name": "zzminer-6.4.1.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.3",
       "size": 23126016,
       "sha256": "5b7195ea057ba12b6e315d9b1cd503e761170741131a27bd762e645feb4e09dd"
+    },
+    {
+      "platform": "windows",
+      "appId": "zzminer",
+      "name": "zzminer-6.4.5.exe",
+      "key": "Readme/61/windows/zzminer-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23099392,
+      "sha256": "743664ec22c7d9cd56b67482409c8bdd62f91a7c01747333e9f5563cd877360f"
     }
   ]
 }

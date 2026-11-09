@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "42",
   "name": "mhminer",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -33,6 +33,15 @@
       "sha256": "bc42fc9ac490c4cee59cfacfc8005bd90ad93f5f2b778c27e91e0eda5232b172"
     },
     {
+      "platform": "linux",
+      "appId": "mhminer",
+      "name": "mhminer-6.4.5",
+      "key": "Readme/42/linux/mhminer-6.4.5",
+      "version": "6.4.5",
+      "size": 23699824,
+      "sha256": "28d1f8bfd3827e295c43670ad0b6c94a48abc0608ad5493a798c34569b466427"
+    },
+    {
       "platform": "windows",
       "appId": "mhminer",
       "name": "mhminer-6.4.1.exe",
@@ -58,6 +67,15 @@
       "version": "6.4.3",
       "size": 23123968,
       "sha256": "b98f3d6eae94bec00c5f86f103af3df9eaf446b7516619773eb2383f1251358d"
+    },
+    {
+      "platform": "windows",
+      "appId": "mhminer",
+      "name": "mhminer-6.4.5.exe",
+      "key": "Readme/42/windows/mhminer-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23097344,
+      "sha256": "88b0ff3f1daeba218ed308303bb71540d02c78ee774879ff75727b61392725b7"
     }
   ]
 }

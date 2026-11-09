@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "130",
   "name": "ddxjy",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "50339f6761a83143526d86b9d380d88c40f21b6c9ffaf05a5419d576584249ba"
     },
     {
+      "platform": "linux",
+      "appId": "ddxjy",
+      "name": "ddxjy-6.4.5",
+      "key": "Readme/130/linux/ddxjy-6.4.5",
+      "version": "6.4.5",
+      "size": 23700224,
+      "sha256": "c6cdbd520ed7ab335dd893a2e82c007be71beaa62b0b6def52d82607bc39a9fc"
+    },
+    {
       "platform": "windows",
       "appId": "ddxjy",
       "name": "ddxjy-6.4.0.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.3",
       "size": 23124480,
       "sha256": "6cbb0d57468ae1ea2476db37cc1a3494971db231789e14928097b2820387abe7"
+    },
+    {
+      "platform": "windows",
+      "appId": "ddxjy",
+      "name": "ddxjy-6.4.5.exe",
+      "key": "Readme/130/windows/ddxjy-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23097856,
+      "sha256": "2431a33699406faa440f68a79cb5d82279d1b1647cb28a6ba142bfcee95435aa"
     }
   ]
 }

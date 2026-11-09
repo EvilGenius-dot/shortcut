@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "33",
   "name": "cakeminer",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "16e567f176680f4ef65d004611c1c672eb963359c0f63d0694a4fe25f045b9ca"
     },
     {
+      "platform": "linux",
+      "appId": "cakeminer",
+      "name": "cakeminer-6.4.5",
+      "key": "Readme/33/linux/cakeminer-6.4.5",
+      "version": "6.4.5",
+      "size": 23879980,
+      "sha256": "c830e05e6cc334373cd7a3e60631ed8764542b92cb8c8e3752c088fe3499f03c"
+    },
+    {
       "platform": "windows",
       "appId": "cakeminer",
       "name": "cakeminer-6.4.0.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.3",
       "size": 23304192,
       "sha256": "460ce20c6d7d7f7c6a9f8ff074e3da457eb32cec4e5f0106d47c8d2adea8da78"
+    },
+    {
+      "platform": "windows",
+      "appId": "cakeminer",
+      "name": "cakeminer-6.4.5.exe",
+      "key": "Readme/33/windows/cakeminer-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23277056,
+      "sha256": "2cc81b9931ceb84c5646fd188918a0630cf81fa773dca514a8d983c1707a34e6"
     }
   ]
 }

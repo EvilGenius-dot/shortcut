@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "68",
   "name": "ecminer",
-  "version": "6.4.3",
+  "version": "6.4.5",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "e69b7c20c34db249dfb06f469b01cbd8c6e175f0754670a8ee097a8bfd94539b"
     },
     {
+      "platform": "linux",
+      "appId": "ecminer",
+      "name": "ecminer-6.4.5",
+      "key": "Readme/68/linux/ecminer-6.4.5",
+      "version": "6.4.5",
+      "size": 23700176,
+      "sha256": "eff5acf51df630837b471946728398dc7876b0411aaf7dba558240fe714c4923"
+    },
+    {
       "platform": "windows",
       "appId": "ecminer",
       "name": "ecminer-6.4.0.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.3",
       "size": 23124480,
       "sha256": "c95c316a6315358935c76d7aacfa50f1f4163fa415b0d67ef159db99775a7bab"
+    },
+    {
+      "platform": "windows",
+      "appId": "ecminer",
+      "name": "ecminer-6.4.5.exe",
+      "key": "Readme/68/windows/ecminer-6.4.5.exe",
+      "version": "6.4.5",
+      "size": 23097856,
+      "sha256": "1ee065c2f20650e751bc8516a82af99b05f15e26cc9efaed6a759249ae50b02b"
     }
   ]
 }
