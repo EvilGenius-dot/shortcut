@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "135",
   "name": "cary",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "5aa647254e1c5332a476b32d4f1e0ec09eeda3458341e00914b8c9c21b7a21fd"
     },
     {
+      "platform": "linux",
+      "appId": "cary",
+      "name": "cary-6.4.6",
+      "key": "Readme/135/linux/cary-6.4.6",
+      "version": "6.4.6",
+      "size": 23728296,
+      "sha256": "3462c256fb057481da51b0f565fd66c5ec56638157907c6a496f024c82c439a0"
+    },
+    {
       "platform": "windows",
       "appId": "cary",
       "name": "cary-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23096832,
       "sha256": "ca57467619851796c0d3f7add84a44177357785e3c33ac866fa31cb906226a40"
+    },
+    {
+      "platform": "windows",
+      "appId": "cary",
+      "name": "cary-6.4.6.exe",
+      "key": "Readme/135/windows/cary-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23134208,
+      "sha256": "a81dc8a64f81c5a2cbd34c32b8510fa72343a9597a7a4562d75345c12d5d7d5e"
     }
   ]
 }

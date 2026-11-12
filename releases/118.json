@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "118",
   "name": "cake",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "d3e79fb001cda7b2a7db8f9ced6a8e961f4bfa38d23910425345088ff611abe3"
     },
     {
+      "platform": "linux",
+      "appId": "cake",
+      "name": "cake-6.4.6",
+      "key": "Readme/118/linux/cake-6.4.6",
+      "version": "6.4.6",
+      "size": 23907892,
+      "sha256": "bf9b209aa821d7d2ddab059bea75133b02ee3a45f5259bea736eeb5f1ddc3939"
+    },
+    {
       "platform": "windows",
       "appId": "cake",
       "name": "cake-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23277056,
       "sha256": "08b6551b2ef380fcafebdcdb4f04f5fd1b3a6b3e4d0c7ebbeafcf1e9923a233f"
+    },
+    {
+      "platform": "windows",
+      "appId": "cake",
+      "name": "cake-6.4.6.exe",
+      "key": "Readme/118/windows/cake-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23313408,
+      "sha256": "7bf5469921449bfe81a0009fed1dfa03fc57bc506df740b76cbcfd7eb9f618d9"
     }
   ]
 }

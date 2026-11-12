@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "65",
   "name": "qiang",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "f14baf2ed8fe356ec38c404334ae56af84274fd6cd87ca51234f2713d787de6d"
     },
     {
+      "platform": "linux",
+      "appId": "qiang",
+      "name": "qiang-6.4.6",
+      "key": "Readme/65/linux/qiang-6.4.6",
+      "version": "6.4.6",
+      "size": 23729024,
+      "sha256": "6e87dca767fe51f4e94624198d3e6143efb8103575cc9ab48b114bb02aa4a5e1"
+    },
+    {
       "platform": "windows",
       "appId": "qiang",
       "name": "qiang-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23097344,
       "sha256": "f9fb62294cab570328e41667544a149e84658ec49018f089be1a665e9b523120"
+    },
+    {
+      "platform": "windows",
+      "appId": "qiang",
+      "name": "qiang-6.4.6.exe",
+      "key": "Readme/65/windows/qiang-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23135232,
+      "sha256": "8ae3d7a9831f91d08591f9a12ad2cc6508427cee912688c16111e4275044d832"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "110",
   "name": "yudhd",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "0457d451cae911a5503e5eb56266c41b532debf20c7c9b4b76d901286cdbfb22"
     },
     {
+      "platform": "linux",
+      "appId": "yudhd",
+      "name": "yudhd-6.4.6",
+      "key": "Readme/110/linux/yudhd-6.4.6",
+      "version": "6.4.6",
+      "size": 23727336,
+      "sha256": "c3a1b122cafbab2001148eb110dd3ff0a0a87945f9169e8a66c5309259ae2d2e"
+    },
+    {
       "platform": "windows",
       "appId": "yudhd",
       "name": "yudhd-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23097344,
       "sha256": "de5f796d2a065339ef05dfbc123cb5669e4dc704dfc13d3da59d8aa09a2f5ded"
+    },
+    {
+      "platform": "windows",
+      "appId": "yudhd",
+      "name": "yudhd-6.4.6.exe",
+      "key": "Readme/110/windows/yudhd-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23133184,
+      "sha256": "fd168dcd6f46272b1703fbef3a262d0670ef08421a4d68d77ea6bd25e13e51c4"
     }
   ]
 }

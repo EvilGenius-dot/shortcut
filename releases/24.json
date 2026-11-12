@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "24",
   "name": "LBMiner",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "3dcf02ca26d1f8f5cd55cec9a28d1a32899a16a731e3ad71c72ec1c0f2dcb7a1"
     },
     {
+      "platform": "linux",
+      "appId": "LBMiner",
+      "name": "LBMiner-6.4.6",
+      "key": "Readme/24/linux/LBMiner-6.4.6",
+      "version": "6.4.6",
+      "size": 23728632,
+      "sha256": "fc021b0644fe1792ea9bc064ac2548d0483f44c1f6b0e0acc4b4f5b08b9314cf"
+    },
+    {
       "platform": "windows",
       "appId": "LBMiner",
       "name": "LBMiner-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23096832,
       "sha256": "d31d6ea90600badbab7866d26fff4aa794f1cfd04496fd72bdba9206df01356f"
+    },
+    {
+      "platform": "windows",
+      "appId": "LBMiner",
+      "name": "LBMiner-6.4.6.exe",
+      "key": "Readme/24/windows/LBMiner-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23134720,
+      "sha256": "4f4dd630b36601c4ce894533577d3ab3c61b6a06c4a0871cceca00fae7ae4229"
     }
   ]
 }

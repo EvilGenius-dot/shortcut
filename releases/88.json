@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "88",
   "name": "anhui",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "6100288827697e14f031291d8bf27087d24c9dc0486f2e77fa98d128ae2b363c"
     },
     {
+      "platform": "linux",
+      "appId": "anhui",
+      "name": "anhui-6.4.6",
+      "key": "Readme/88/linux/anhui-6.4.6",
+      "version": "6.4.6",
+      "size": 23728040,
+      "sha256": "c432f79acc862c1a24f4efb83655a8e74e4e1b1517eadfe37ee0a94464c4195e"
+    },
+    {
       "platform": "windows",
       "appId": "anhui",
       "name": "anhui-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23097344,
       "sha256": "7d36d7d98be653ec029c081b4f23c63f8bc13453e10c7600ca906633b046f67e"
+    },
+    {
+      "platform": "windows",
+      "appId": "anhui",
+      "name": "anhui-6.4.6.exe",
+      "key": "Readme/88/windows/anhui-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23134208,
+      "sha256": "7c5518fa5c621b8d074ddede21642170403adf8a9d44269199505d3755142811"
     }
   ]
 }

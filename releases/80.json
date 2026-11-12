@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "80",
   "name": "ling",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "0ee55adfd54d1093888e7b2a137d465617b4e83d5b5beea59b2c26c4fd9b9aec"
     },
     {
+      "platform": "linux",
+      "appId": "ling",
+      "name": "ling-6.4.6",
+      "key": "Readme/80/linux/ling-6.4.6",
+      "version": "6.4.6",
+      "size": 23728288,
+      "sha256": "5dd63243b8017b59dc619149143c110fc4c05cca6773612c5bda1930ab59e9e7"
+    },
+    {
       "platform": "windows",
       "appId": "ling",
       "name": "ling-6.4.1.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.5",
       "size": 23097856,
       "sha256": "41f11ec4561522f34324aab44cd03f0c4ebf2e629668990adbf6bc0e2a1a714f"
+    },
+    {
+      "platform": "windows",
+      "appId": "ling",
+      "name": "ling-6.4.6.exe",
+      "key": "Readme/80/windows/ling-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23134208,
+      "sha256": "799be45cfa7a2034f2a35bdbb2d0b7664d01f34fd0b9ec02a6e650f7dd2faa6d"
     }
   ]
 }

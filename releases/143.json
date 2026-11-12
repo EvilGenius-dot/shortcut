@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "143",
   "name": "cryptovault",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "8fe43b33eb41c3a5f5086770519a1bdb0c02418ae6d55a22342cd3937bf1febe"
     },
     {
+      "platform": "linux",
+      "appId": "cryptovault",
+      "name": "cryptovault-6.4.6",
+      "key": "Readme/143/linux/cryptovault-6.4.6",
+      "version": "6.4.6",
+      "size": 23751496,
+      "sha256": "c6c1d33934bed980d282f44f6e20922d3701a1d736c3900901e97bc82c0def75"
+    },
+    {
       "platform": "windows",
       "appId": "cryptovault",
       "name": "cryptovault-6.4.1.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.5",
       "size": 23121920,
       "sha256": "d4afb9541f672af6ca9481c5c39925f7e4cc66b09598da1a8388c1bbefae8c73"
+    },
+    {
+      "platform": "windows",
+      "appId": "cryptovault",
+      "name": "cryptovault-6.4.6.exe",
+      "key": "Readme/143/windows/cryptovault-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23157248,
+      "sha256": "d44f22f38f37cf7fd216d7accb41a93a7e8e156a34ba02da8a32ea2241daf2f5"
     }
   ]
 }

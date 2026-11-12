@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "94",
   "name": "admin",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "544ab7b203c59f9f3cdc1965dabec88fed80c2e6a8653ce0343abd3a61d95423"
     },
     {
+      "platform": "linux",
+      "appId": "admin",
+      "name": "admin-6.4.6",
+      "key": "Readme/94/linux/admin-6.4.6",
+      "version": "6.4.6",
+      "size": 23728064,
+      "sha256": "1a5e8ccf9e53c787e8edc6707b4e18b99dc46b714b3e234bddef5293624dc767"
+    },
+    {
       "platform": "windows",
       "appId": "admin",
       "name": "admin-6.4.1.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.5",
       "size": 23097344,
       "sha256": "d37b97bf1229b6ea0dbeea46b68f474095390b0851f39ce1e7c1107dcdc05972"
+    },
+    {
+      "platform": "windows",
+      "appId": "admin",
+      "name": "admin-6.4.6.exe",
+      "key": "Readme/94/windows/admin-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23134208,
+      "sha256": "787b503dae8d7c99f9065fe7d8bd1d90b396a8cdb8c99f4a02408f86fca78203"
     }
   ]
 }

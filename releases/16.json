@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "16",
   "name": "mxminerProxy",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "4eadcb755434049cdfd9567d75e7c9ba85612dfdf12f7278b21772c2d4ba6e32"
     },
     {
+      "platform": "linux",
+      "appId": "mxminerProxy",
+      "name": "mxminerProxy-6.4.6",
+      "key": "Readme/16/linux/mxminerProxy-6.4.6",
+      "version": "6.4.6",
+      "size": 23727688,
+      "sha256": "5a6807595c33a9e600d775e1a4f78aa282645a1c503f3af6d8a810df2ec72563"
+    },
+    {
       "platform": "windows",
       "appId": "mxminerProxy",
       "name": "mxminerProxy-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23096832,
       "sha256": "d4e370b2842485014a5c297ccff9551f54f89f68a565b3c5d1762403546664e4"
+    },
+    {
+      "platform": "windows",
+      "appId": "mxminerProxy",
+      "name": "mxminerProxy-6.4.6.exe",
+      "key": "Readme/16/windows/mxminerProxy-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23133696,
+      "sha256": "1a9fd8efc94eec999a378a689a9df5099ce69af608973be5b233acbae6b0d19d"
     }
   ]
 }

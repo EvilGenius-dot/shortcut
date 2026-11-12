@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "90",
   "name": "qwe",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "7aec37da07ea7ab91dc566221d4c7b561338d13578dd3198000332a5d76088b3"
     },
     {
+      "platform": "linux",
+      "appId": "qwe",
+      "name": "qwe-6.4.6",
+      "key": "Readme/90/linux/qwe-6.4.6",
+      "version": "6.4.6",
+      "size": 23728744,
+      "sha256": "1743ceec3b23ae0568cb09071f086b7690bd04549830a8f829435fee6b7fe42e"
+    },
+    {
       "platform": "windows",
       "appId": "qwe",
       "name": "qwe-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23097856,
       "sha256": "55fce4b56a72cbf6eec1aec82bfcf1cb070c44fc180471881648f1a1b722e238"
+    },
+    {
+      "platform": "windows",
+      "appId": "qwe",
+      "name": "qwe-6.4.6.exe",
+      "key": "Readme/90/windows/qwe-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23134720,
+      "sha256": "dfe1b5e9401412d42646ab8b22cbc440cfd6b863343a30e212495efdeabdec0f"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "73",
   "name": "goldminer",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "0128ae0ad3c8ba627cbdb0d4d239f452844814898fda334bd08524d5967b92b5"
     },
     {
+      "platform": "linux",
+      "appId": "goldminer",
+      "name": "goldminer-6.4.6",
+      "key": "Readme/73/linux/goldminer-6.4.6",
+      "version": "6.4.6",
+      "size": 23728520,
+      "sha256": "ae81df289daa1a4c8389d979994638890ddf340716faa7d140fb13a2004dfc29"
+    },
+    {
       "platform": "windows",
       "appId": "goldminer",
       "name": "goldminer-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23095296,
       "sha256": "a1611c18ca33932a6f0a4748fa6dbce4af4b943be7ebaea0264b00a95f2468c2"
+    },
+    {
+      "platform": "windows",
+      "appId": "goldminer",
+      "name": "goldminer-6.4.6.exe",
+      "key": "Readme/73/windows/goldminer-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23134208,
+      "sha256": "923acf50d8b133eb80cf1f07ba227e1d9d42c741043ca7d6e2290543ed56704b"
     }
   ]
 }

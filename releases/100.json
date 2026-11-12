@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "100",
   "name": "btpool",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "84f18cd1b2628ba7db62a22bcbaa26435cd61c5895b097261fb5ecd66322569e"
     },
     {
+      "platform": "linux",
+      "appId": "btpool",
+      "name": "btpool-6.4.6",
+      "key": "Readme/100/linux/btpool-6.4.6",
+      "version": "6.4.6",
+      "size": 23727800,
+      "sha256": "01fd6da6a4387b1056948b433b2947e092a61c29226a169de9ae63c7f242f095"
+    },
+    {
       "platform": "windows",
       "appId": "btpool",
       "name": "btpool-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23097344,
       "sha256": "5357454844a9a2367626f285622206cc05fcaf8a4c536f17d0b185f26c8496f6"
+    },
+    {
+      "platform": "windows",
+      "appId": "btpool",
+      "name": "btpool-6.4.6.exe",
+      "key": "Readme/100/windows/btpool-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23133696,
+      "sha256": "104e11c76f8759a533f3010a3cdabe8facf2bda513e93b0cf0a84fc4c2c89172"
     }
   ]
 }

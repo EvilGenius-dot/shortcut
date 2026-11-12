@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "119",
   "name": "kashi2",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "833cd7b93e7c0c9104f30615f902e3d09094c41ff1f7fae98f5e9c10c008aa5d"
     },
     {
+      "platform": "linux",
+      "appId": "kashi2",
+      "name": "kashi2-6.4.6",
+      "key": "Readme/119/linux/kashi2-6.4.6",
+      "version": "6.4.6",
+      "size": 23727520,
+      "sha256": "371d5df1cf72ad27e72cfbeb6449d5c535dd4b4bdb52d1f30efde78d54511312"
+    },
+    {
       "platform": "windows",
       "appId": "kashi2",
       "name": "kashi2-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23097344,
       "sha256": "cbd85fabb949533831d1080dbf9ff66dbe810a33fee04718e9486080d8e3118e"
+    },
+    {
+      "platform": "windows",
+      "appId": "kashi2",
+      "name": "kashi2-6.4.6.exe",
+      "key": "Readme/119/windows/kashi2-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23133696,
+      "sha256": "b9771614c3981b46cd05cc5cfa6bf778efeae129bad76a9ffee36bec57b017a3"
     }
   ]
 }

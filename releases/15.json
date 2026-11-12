@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "15",
   "name": "kkminer",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "28cdde0d3f428cd94b8298db0279ce78c23d80aa3a0e364c657887c92ffba8e3"
     },
     {
+      "platform": "linux",
+      "appId": "kkminer",
+      "name": "kkminer-6.4.6",
+      "key": "Readme/15/linux/kkminer-6.4.6",
+      "version": "6.4.6",
+      "size": 23728600,
+      "sha256": "0142b8960351e4e01af26507da3fafe1ac3831e8303ab20a4831215fcde08b84"
+    },
+    {
       "platform": "windows",
       "appId": "kkminer",
       "name": "kkminer-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23098368,
       "sha256": "7396d138b4975980fd09fc8fc4b62d745bbb12b3109b30f04d6a16a1f8df45be"
+    },
+    {
+      "platform": "windows",
+      "appId": "kkminer",
+      "name": "kkminer-6.4.6.exe",
+      "key": "Readme/15/windows/kkminer-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23134720,
+      "sha256": "1673581070ce01db47a071800f0d503827098aa057cc44d6d534b6067cfedfa7"
     }
   ]
 }

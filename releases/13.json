@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "13",
   "name": "ceo",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "c05dc1c216dd5ee6e9c9728c511fec3f42558f502fb2929913adba50542ebc42"
     },
     {
+      "platform": "linux",
+      "appId": "ceo",
+      "name": "ceo-6.4.6",
+      "key": "Readme/13/linux/ceo-6.4.6",
+      "version": "6.4.6",
+      "size": 23743076,
+      "sha256": "0738f631cbb0d24dfba6f1dcb1e8010b87099bd1349d8bb4587fec7887a5ddd6"
+    },
+    {
       "platform": "windows",
       "appId": "ceo",
       "name": "ceo-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23112704,
       "sha256": "93ac0fece955b19f7ff58e0534400e8b02d5b2443c58ab26bb4aabbc0d45af81"
+    },
+    {
+      "platform": "windows",
+      "appId": "ceo",
+      "name": "ceo-6.4.6.exe",
+      "key": "Readme/13/windows/ceo-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23149056,
+      "sha256": "464a95d6bd479103fd2ff4fd25f94ea729845894452af6bbb5d3940b01e50d5d"
     }
   ]
 }

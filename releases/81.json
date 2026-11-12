@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "81",
   "name": "flyminer",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "dd7d013f6d01fae63b0596f086b061f6eee826c977401de3b5dbea8b29ff16fb"
     },
     {
+      "platform": "linux",
+      "appId": "flyminer",
+      "name": "flyminer-6.4.6",
+      "key": "Readme/81/linux/flyminer-6.4.6",
+      "version": "6.4.6",
+      "size": 23732184,
+      "sha256": "71039aba6969cd023de0a6aedcc8c7d1a90bf1df2f2d1411e6122cc571d6c7c9"
+    },
+    {
       "platform": "windows",
       "appId": "flyminer",
       "name": "flyminer-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23101440,
       "sha256": "6c9832c3cb3e909f3d580d4d48473ed9aebf888a14790411ba241fd3971d657b"
+    },
+    {
+      "platform": "windows",
+      "appId": "flyminer",
+      "name": "flyminer-6.4.6.exe",
+      "key": "Readme/81/windows/flyminer-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23138304,
+      "sha256": "f4587e22203693110126ac9e26df03e77825ab44afa1af65634a28b078122c78"
     }
   ]
 }

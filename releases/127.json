@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "127",
   "name": "bkfcc",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "084c6fa8587a5516428fe13b3c204ee5e9d4283bddb58d14f8a37a33880a7bc4"
     },
     {
+      "platform": "linux",
+      "appId": "bkfcc",
+      "name": "bkfcc-6.4.6",
+      "key": "Readme/127/linux/bkfcc-6.4.6",
+      "version": "6.4.6",
+      "size": 23726368,
+      "sha256": "16cca2cbb7e6f864d5dbe064b603728dfab8317a576b81fe73df2f78d4ef8878"
+    },
+    {
       "platform": "windows",
       "appId": "bkfcc",
       "name": "bkfcc-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23097856,
       "sha256": "346c4e7b3c1895def7acfb802e845c7d0dc316a828b9e83b21bf9890a69d9c5c"
+    },
+    {
+      "platform": "windows",
+      "appId": "bkfcc",
+      "name": "bkfcc-6.4.6.exe",
+      "key": "Readme/127/windows/bkfcc-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23132160,
+      "sha256": "9fadf971246f709ff4e0e3947e4157b753f6c84b44a9093784e7f51170780e0a"
     }
   ]
 }

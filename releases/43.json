@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "43",
   "name": "cdminer",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "ef14ddc1f7b5728fe1baca3273d7ed8ad936969d1eff3aec5a7180164a7918f3"
     },
     {
+      "platform": "linux",
+      "appId": "cdminer",
+      "name": "cdminer-6.4.6",
+      "key": "Readme/43/linux/cdminer-6.4.6",
+      "version": "6.4.6",
+      "size": 23744908,
+      "sha256": "2bcb65e2e44819d311fde46d1f4866c03ac6411aa8fd17f77aba3cab25e68205"
+    },
+    {
       "platform": "windows",
       "appId": "cdminer",
       "name": "cdminer-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23113216,
       "sha256": "a62d35450cd73462e3b1933f06426bda1ebc385e8fb88cae3fdb546d6f071ac9"
+    },
+    {
+      "platform": "windows",
+      "appId": "cdminer",
+      "name": "cdminer-6.4.6.exe",
+      "key": "Readme/43/windows/cdminer-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23150592,
+      "sha256": "940aa15cd865987f63e25a2f61f6240764cf47b949ddcb2867a8f014851006cc"
     }
   ]
 }

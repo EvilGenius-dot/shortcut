@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "141",
   "name": "tc2",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "61b104268a621974fb2c31d42e46e50b0da47b78d7dfe4b652a20450051329c4"
     },
     {
+      "platform": "linux",
+      "appId": "tc2",
+      "name": "tc2-6.4.6",
+      "key": "Readme/141/linux/tc2-6.4.6",
+      "version": "6.4.6",
+      "size": 23756048,
+      "sha256": "0926a8cc6e1a6f9c9a175b24f29277398524d988d7707fb4dee58f78138adf57"
+    },
+    {
       "platform": "windows",
       "appId": "tc2",
       "name": "tc2-6.4.1.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.5",
       "size": 23126016,
       "sha256": "15547741329c81f4be0882be85038b6fd2a8d8118dbbbb6f9cd3c23b70bd644f"
+    },
+    {
+      "platform": "windows",
+      "appId": "tc2",
+      "name": "tc2-6.4.6.exe",
+      "key": "Readme/141/windows/tc2-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23161856,
+      "sha256": "8f298a8b1b12153a49d32e129d238dfcd723641a4ed0c2e045dd104ebe71ebba"
     }
   ]
 }

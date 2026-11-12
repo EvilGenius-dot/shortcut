@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "147",
   "name": "duzong",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "f0460225d32cc91c5788fc81a704cae4fa3656dfba2e9f6dc00e6ce7eeecf020"
     },
     {
+      "platform": "linux",
+      "appId": "duzong",
+      "name": "duzong-6.4.6",
+      "key": "Readme/147/linux/duzong-6.4.6",
+      "version": "6.4.6",
+      "size": 23729176,
+      "sha256": "15484445357dce3b74c3a5640cf1d019aa70e2adbfce1961003af1310af21e27"
+    },
+    {
       "platform": "windows",
       "appId": "duzong",
       "name": "duzong-6.4.1.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.5",
       "size": 23097344,
       "sha256": "73fe4a863679f6b03d9ffa82a2d6ee725c853818f627b3f37a142ab9ff91f225"
+    },
+    {
+      "platform": "windows",
+      "appId": "duzong",
+      "name": "duzong-6.4.6.exe",
+      "key": "Readme/147/windows/duzong-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23133184,
+      "sha256": "3cc4fd64333160212c06769b759b77fcf7e4dc595ad92ffe45e630d809bff65d"
     }
   ]
 }

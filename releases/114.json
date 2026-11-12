@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "114",
   "name": "widly",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "339d3c31eaa6963945d02701288cbb60bfaa190f316a175e591101cbe7b407e0"
     },
     {
+      "platform": "linux",
+      "appId": "widly",
+      "name": "widly-6.4.6",
+      "key": "Readme/114/linux/widly-6.4.6",
+      "version": "6.4.6",
+      "size": 23727832,
+      "sha256": "5844e20b0888bb251f6ac10fb4d3bb1ac1ae89047445c5d5bbdb9eaedc728ed2"
+    },
+    {
       "platform": "windows",
       "appId": "widly",
       "name": "widly-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23097344,
       "sha256": "498c71022a14c23918d05578dc3b5c15222f478768190c864e3dd45f89290b32"
+    },
+    {
+      "platform": "windows",
+      "appId": "widly",
+      "name": "widly-6.4.6.exe",
+      "key": "Readme/114/windows/widly-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23133696,
+      "sha256": "428d9bc8a4edbceb3d6e96171dd058805ed04b76e73fbc69c53284ebcfe5bedf"
     }
   ]
 }

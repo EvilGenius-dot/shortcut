@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "41",
   "name": "spks2",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "bf9c95aece32ae8c5fafc3297f4adf845ad5dcb8633ba6e9e81d15fe900ce627"
     },
     {
+      "platform": "linux",
+      "appId": "spks2",
+      "name": "spks2-6.4.6",
+      "key": "Readme/41/linux/spks2-6.4.6",
+      "version": "6.4.6",
+      "size": 23726952,
+      "sha256": "bf4c7d228ef3a075da0b1c92f1e84d5d3b78025bcbe3884c107c8359b05b7d96"
+    },
+    {
       "platform": "windows",
       "appId": "spks2",
       "name": "spks2-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23097856,
       "sha256": "bab9a09b25c7594c9cf57d7fc88df7dbe44509ed99c0cf60c09e0bba1a00c03e"
+    },
+    {
+      "platform": "windows",
+      "appId": "spks2",
+      "name": "spks2-6.4.6.exe",
+      "key": "Readme/41/windows/spks2-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23133184,
+      "sha256": "017c0614b297308277ed8aa518e61faace14b2f2a8dac76c8ee405e7bc008f1c"
     }
   ]
 }

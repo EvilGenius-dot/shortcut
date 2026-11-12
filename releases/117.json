@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "117",
   "name": "awalong",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -49,6 +49,15 @@
       "version": "6.4.5",
       "size": 23699848,
       "sha256": "659264fcecc3902bbb564f03d11e5534bcf87cf2caf3710d0fbbf637e93f8dc4"
+    },
+    {
+      "platform": "linux",
+      "appId": "awalong",
+      "name": "awalong-6.4.6",
+      "key": "Readme/117/linux/awalong-6.4.6",
+      "version": "6.4.6",
+      "size": 23727064,
+      "sha256": "08f6695655c6124a2bd3c1b3adeea657d83f291b07c7643442312091138a31d8"
     },
     {
       "platform": "linux",
@@ -103,6 +112,15 @@
       "version": "6.4.5",
       "size": 23097344,
       "sha256": "1e94d311e5f088b6b6a0ab9d1e4cc96c27a30408dc83b7abb16053e07894f0ee"
+    },
+    {
+      "platform": "windows",
+      "appId": "awalong",
+      "name": "awalong-6.4.6.exe",
+      "key": "Readme/117/windows/awalong-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23133184,
+      "sha256": "bf5c7c72d4ffde0023b9c81da2aafd6ef691cd8862f853422d10432c89cc1a60"
     },
     {
       "platform": "windows",

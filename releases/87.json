@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "87",
   "name": "superminer",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -42,6 +42,15 @@
       "sha256": "b6a34b3c190fa2cfa07485e897fb393d0e0de3bc3492d649739bf321430a0e10"
     },
     {
+      "platform": "linux",
+      "appId": "superminer",
+      "name": "superminer-6.4.6",
+      "key": "Readme/87/linux/superminer-6.4.6",
+      "version": "6.4.6",
+      "size": 23728120,
+      "sha256": "cb71975cf277b1d013e6518ea19cd8c394107978661c56d607c41f445fd46912"
+    },
+    {
       "platform": "windows",
       "appId": "superminer",
       "name": "superminer-6.4.1.exe",
@@ -76,6 +85,15 @@
       "version": "6.4.5",
       "size": 23096832,
       "sha256": "4323e336e5c580b2cf5364ce05a15e5e88ec0e77e7f3c462374f9a0b265470c2"
+    },
+    {
+      "platform": "windows",
+      "appId": "superminer",
+      "name": "superminer-6.4.6.exe",
+      "key": "Readme/87/windows/superminer-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23134208,
+      "sha256": "bc5fed4c9fa0f4f6486a5c3e1eb4f78a435e4a5eae4f735dd3315f698cab0c7e"
     }
   ]
 }

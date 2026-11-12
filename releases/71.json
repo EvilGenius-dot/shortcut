@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "71",
   "name": "doge",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "1cf41c278231fe95cd3e25e2b95f837f3ec40e27cdc0ff3355a4083ec3ab0c6a"
     },
     {
+      "platform": "linux",
+      "appId": "doge",
+      "name": "doge-6.4.6",
+      "key": "Readme/71/linux/doge-6.4.6",
+      "version": "6.4.6",
+      "size": 24323492,
+      "sha256": "c878baa223a6356d2722999ecbefc0212248afbecbdd7445f976255098560ddd"
+    },
+    {
       "platform": "windows",
       "appId": "doge",
       "name": "doge-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23692288,
       "sha256": "4dc2eb61e3bb2e7d932c50d91ad5375b584e53f6ddb789519329c82f6e7bb7a4"
+    },
+    {
+      "platform": "windows",
+      "appId": "doge",
+      "name": "doge-6.4.6.exe",
+      "key": "Readme/71/windows/doge-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23729664,
+      "sha256": "2ec34eb5bbe198439016d45cde200a56fb6f9a7de2f9b69c7eda7265a211fed0"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cid": "47",
   "name": "minersys",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "publicBaseUrl": "https://shortcut.rustminersystem.com",
   "files": [
     {
@@ -51,6 +51,15 @@
       "sha256": "832a6d78de73d3b4be41d094f04e913a0462f6ccbcf5e1be784249f32563719d"
     },
     {
+      "platform": "linux",
+      "appId": "minersys",
+      "name": "minersys-6.4.6",
+      "key": "Readme/47/linux/minersys-6.4.6",
+      "version": "6.4.6",
+      "size": 23727328,
+      "sha256": "15fcf006ed2fd8f09548528f3c60bc13abac8b46ef19e8a4ae33460d374e6583"
+    },
+    {
       "platform": "windows",
       "appId": "minersys",
       "name": "minersys-6.4.0.exe",
@@ -94,6 +103,15 @@
       "version": "6.4.5",
       "size": 23097344,
       "sha256": "67932a978885119d7c4e8d2bc11cb4934269a38b2e260908351480ab923ddbe5"
+    },
+    {
+      "platform": "windows",
+      "appId": "minersys",
+      "name": "minersys-6.4.6.exe",
+      "key": "Readme/47/windows/minersys-6.4.6.exe",
+      "version": "6.4.6",
+      "size": 23133184,
+      "sha256": "bf24988d0877cd3a4214f0cb5b0c43029f366b5e79d58cf0742d8d3ff24f5fb3"
     }
   ]
 }
